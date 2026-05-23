@@ -16,14 +16,14 @@ Modifiers adjust sentences up or down. Multiple modifiers may apply to a single 
 | Code | Modifier | Description | Adjustment |
 |:----:|:---------|:------------|:-----------|
 | M01 | **Good Samaritan Clause** | Crimes committed in the interest of saving life, property, or preventing a disaster may have their sentences reduced, voided, or expunged. | Voiding of charges |
-| M02 | **Elevated Sentencing** | The scope of the crime(s), or repetitive behavior committed, warrants the charge be elevated to a higher offence in increments of one level per instance. | Decided by HoS, Warden, or Captain |
+| <a id="m02"></a>M02 | **Elevated Sentencing** | The scope of the crime(s), or repetitive behavior committed, warrants the charge be elevated to a higher offence in increments of one level per instance. | Decided by HoS, Warden, or Captain |
 | M03 | **Self Defense** | Actions taken to defend oneself from an assailant may have sentences reduced, voided, or expunged if the officer(s) involved deem the use of force reasonable. | Voiding of charges |
 | M04 | **Non Compos Mentis** | Those of unstable mind should be referred to medical treatment or, if required, forced cryogenic storage. | Forced medical treatment or cryogenic storage |
 | M05 | **Griseo Maris** | Coordinated behavior by those with no clear assigned duty which interrupts the normal function of any one department may lead to sentencing for crimes committed during such actions being increased by one level. | Severity increased by one level |
 | M06 | **Resisting Arrest** | Knowingly resisting attempts at legal detention by members of the security team. Sentences should be increased by the recommended 20% of total duration. | 20% punishment increase |
 | M07 | **Escaped Prisoner** | Someone who has escaped their cell should be recaptured and returned to the brig. Their timer should be reset to the full length of the original sentence. If the prisoner is a Perma, they are to be stowed within Cryo. | Reset of imprisonment time; if permanent confinement, cryogenic storage |
 | M08 | **Attempted Crime** | Anyone who tries to commit a Felony or below offense but fails to achieve it is to be charged under the relevant crime while recording that it was an attempt. Attempts warrant a 5% decrease in punishment. | Same crime, 5% decrease in punishment |
-| M09 | **Hate Crime** | If the crime is committed to cause fear, injury, or harm due to racial, spiritual, physical, sexual orientation, gender identity, or other classifiable hate crime reasons. Cannot be applied to Discriminatory Language (111), as it is implied. | 50% time increase |
+| M09 | **Hate Crime** | If the crime is committed to cause fear, injury, or harm due to racial, spiritual, physical, sexual orientation, gender identity, or other classifiable hate crime reasons. Cannot be applied to [111 — Discriminatory Language](#111), as it is implied. | 50% time increase |
 | M10 | **Colonial Command Directive** | A pardon or sentence modification issued by Colonial Command. Colonial Command may waive sections of Space Law. If issued, it is to be followed immediately. | Immediate release or modification |
 | M11 | **Medical Attention** | A sick or injured prisoner requires medical aid. Prisoners have the right to medical aid if injured or sick. In cases of self-harm, aid is discretionary by security. The timer continues running during medical aid. | Running timer |
 | M12 | **Hostile Brainwashing** | To be under the mind control of a Cult, a head revolutionary, a vampire, or other mind-controlling circumstances. Brainwashed persons are to be detained non-lethally if possible and deconverted. Once deconverted, they are to be released. | Deconversion and release |
@@ -37,11 +37,11 @@ All of these crimes tend to be monetary punishments.
 
 | Code | Crime | Description | Punishment |
 |:----:|:------|:------------|:-----------|
-| 003 | **Superficial Vandalism** | To deface the station or property of another individual. | Force repairing or 15k speso fine |
-| 006 | **Drug Possession** | The possession of illegal drugs in quantities appropriate for personal use. | Confiscation of illegal drugs and 25k speso fine |
-| 007 | **Disorderly Conduct** | To conduct oneself in a way unsuitable for the retention of one's position. When sentenced along with M02, results in demotion. | Brig until 25k speso fine paid |
+| <a id="003"></a>003 | **Superficial Vandalism** | To deface the station or property of another individual. Greater offense: [103 — Minor Vandalism](#103). | Force repairing or 15k speso fine |
+| <a id="006"></a>006 | **Drug Possession** | The possession of illegal drugs in quantities appropriate for personal use. Greater offense: [106 — Illegal Distribution](#106). | Confiscation of illegal drugs and 25k speso fine |
+| 007 | **Disorderly Conduct** | To conduct oneself in a way unsuitable for the retention of one's position. When sentenced along with [M02](#m02), results in demotion. | [Brig until 25k speso fine paid](#112) |
 | 008 | **Creating a Hazard** | To create a situation that may lead to the harm of others during normal operation in that department. | Forced removal of the situation and 15k speso fine |
-| 011 | **Disruptive Comms** | To knowingly disrupt or needlessly populate a radio frequency with the intent to be a nuisance. If done while brigged, the right to a headset is void. | Brig until fine paid (unless under M02) and 10k speso fine |
+| 011 | **Disruptive Comms** | To knowingly disrupt or needlessly populate a radio frequency with the intent to be a nuisance. If done while brigged, the right to a headset is void. | [Brig until fine paid](#112) (unless under [M02](#m02)) and 10k speso fine |
 
 ---
 
@@ -51,17 +51,17 @@ These crimes tend to be just brig time.
 
 | Code | Crime | Description | Punishment |
 |:----:|:------|:------------|:-----------|
-| 101 | **Assault** | To use physical force against someone without the apparent intent to kill them. | Restraining and separation; 5 min brig |
-| 102 | **Pickpocketing** | To steal items from another person. | Return of object(s) and 5 min brig |
-| 103 | **Minor Vandalism** | To damage, destroy, or permanently deface non-critical furniture, vendors, or personal property. | Work duty to repair damage; brig time varies by damage |
+| <a id="101"></a>101 | **Assault** | To use physical force against someone without the apparent intent to kill them. Greater offense: [201 — Aggravated Assault](#201). | Restraining and separation; 5 min brig |
+| <a id="102"></a>102 | **Pickpocketing** | To steal items from another person. Greater offense: [202 — Theft](#202). | Return of object(s) and 5 min brig |
+| <a id="103"></a>103 | **Minor Vandalism** | To damage, destroy, or permanently deface non-critical furniture, vendors, or personal property. Lesser offense: [003 — Superficial Vandalism](#003). Greater offense: [203 — Vandalism, Major](#203). | Work duty to repair damage; brig time varies by damage |
 | 104 | **Vigilantism** | To perform the responsibilities and duties of the security department without approval or due cause to act. | 5 min brig |
-| 106 | **Illegal Distribution** | The possession of dangerous or illegal drugs/equipment in a quantity greater than reasonable for personal consumption. | 5 min brig and 40k fine |
+| <a id="106"></a>106 | **Illegal Distribution** | The possession of dangerous or illegal drugs/equipment in a quantity greater than reasonable for personal consumption. Lesser offense: [006 — Drug Possession](#006). | 5 min brig and 40k fine |
 | 107 | **Disturbing the Peace** | To knowingly organize a movement that disrupts the normal operations of a department. | Warning to disperse; up to 10 min brig depending on cooperation |
-| 108 | **Criminal Negligence** | To be negligent in one's duty to an extent that it may cause harm, illness, or other negative effects to another. Includes reckless operation of a shuttle. Simple 108 negligence does not result in death. | 5 min brig |
-| 109 | **Trespass** | To be in an area which a person has not been admitted to, does not have access, or has been asked to leave by department staff. | Peacefully leaving: release. Resisting: at least 5 min brig. Long-term resistors may receive additional time |
-| 110 | **Breaking and Entering** | To trespass into an area using a method of forcible entry. Non-destructive methods of entry are still chargeable. | Brig time varies from 5 min based on damage caused |
-| 111 | **Discriminatory Language** | To use language that demeans, generalizes, or otherwise de-personifies the individual to whom it is targeted. | 10 min brig |
-| 112 | **Fine Evasion** | To purposefully avoid or refuse to pay a legal fine, or to be unable to pay a fine. After reasonable time and notification, for every 1,000 speso owed, a 15-second timer is applied. | 15 sec per 1k speso owed (e.g., 30k fine = 7.5 min brig) |
+| <a id="108"></a>108 | **Criminal Negligence** | To be negligent in one's duty to an extent that it may cause harm, illness, or other negative effects to another. Includes reckless operation of a shuttle. Simple 108 negligence does not result in death. Greater offense: [208 — Gross Criminal Negligence](#208). | 5 min brig |
+| <a id="109"></a>109 | **Trespass** | To be in an area which a person has not been admitted to, does not have access, or has been asked to leave by department staff. Greater offense: [209 — Trespass, Inherently Dangerous Areas](#209). | Peacefully leaving: release. Resisting: at least 5 min brig. Long-term resistors may receive additional time |
+| <a id="110"></a>110 | **Breaking and Entering** | To trespass into an area using a method of forcible entry. Non-destructive methods of entry are still chargeable. Greater offense: [210 — Breaking and Entering, Inherently Dangerous Areas](#210). | Brig time varies from 5 min based on damage caused |
+| <a id="111"></a>111 | **Discriminatory Language** | To use language that demeans, generalizes, or otherwise de-personifies the individual to whom it is targeted. | 10 min brig |
+| <a id="112"></a>112 | **Fine Evasion** | To purposefully avoid or refuse to pay a legal fine, or to be unable to pay a fine. After reasonable time and notification, for every 1,000 speso owed, a 15-second timer is applied. | 15 sec per 1k speso owed (e.g., 30k fine = 7.5 min brig) |
 | 117 | **Brandishing** | To brandish a weapon unlawfully and without due cause. | 5 min brig or a person search |
 
 ---
@@ -72,22 +72,22 @@ These crimes tend to include both fines and brig time.
 
 | Code | Crime | Description | Punishment |
 |:----:|:------|:------------|:-----------|
-| 201 | **Aggravated Assault** | To take physical action against a person with the intent to grievously harm, but not to kill. | 5 min brig, flat 25k fine |
-| 202 | **Theft** | To steal equipment or items from a workplace, or items of extraordinary value from one's person. | Return of items, 5 min brig, 20k fine |
-| 203 | **Vandalism, Major** | To destroy or damage non-critical furniture, vendors, or personal property in a manner that cannot be repaired. | Replacement of item(s), monetary recompensation, 5 min brig |
-| 204 | **Conspiracy** | To knowingly work with another person in the interest of committing an illegal action. | 5–10 min brig (discretionary) |
-| 205 | **Hostile Agent** | To knowingly act as a recruiter, representative, messenger, ally, benefactor, or other associate of a hostile organization as defined within Code 405. | 5 min brig, 25k fine |
+| <a id="201"></a>201 | **Aggravated Assault** | To take physical action against a person with the intent to grievously harm, but not to kill. Lesser offense: [101 — Assault](#101). Greater offense: [301 — Murder](#301). | 5 min brig, flat 25k fine |
+| <a id="202"></a>202 | **Theft** | To steal equipment or items from a workplace, or items of extraordinary value from one's person. Lesser offense: [102 — Pickpocketing](#102). Greater offense: [302 — Larceny](#302). | Return of items, 5 min brig, 20k fine |
+| <a id="203"></a>203 | **Vandalism, Major** | To destroy or damage non-critical furniture, vendors, or personal property in a manner that cannot be repaired. Lesser offense: [103 — Minor Vandalism](#103). | Replacement of item(s), monetary recompensation, 5 min brig |
+| <a id="204"></a>204 | **Conspiracy** | To knowingly work with another person in the interest of committing an illegal action. Greater offense: [304 — Grand Conspiracy](#304). | 5–10 min brig (discretionary) |
+| <a id="205"></a>205 | **Hostile Agent** | To knowingly act as a recruiter, representative, messenger, ally, benefactor, or other associate of a hostile organization as defined within [405 — Enemy of the Government](#405). Greater offense: [305 — Hostile Activity](#305). | 5 min brig, 25k fine |
 | 206 | **Possession, Contraband Equipment** | Any and all Class 2 contraband. Applied regardless of whether it was used in a crime or not. Class 2 Permits are required to carry C2. | 5 min brig, 25k fine, confiscation |
-| 207 | **Rioting** | To act as a member in a group that collectively commits acts of major vandalism, sabotage, grand sabotage, or other felony crimes. | HoS or Warden's judgement |
-| 208 | **Gross Criminal Negligence** | Negligence in one's duty causing harm to multiple individuals, a department, or directly leading to serious injury requiring emergency medical treatment. | Baseline 10 min brig (varies by severity), possible demotion, 30k speso |
-| 209 | **Trespass, Inherently Dangerous Areas** | Trespassing in an area that may lead to injury of oneself or others. Includes No-Fire Zones. | 15 min brig, 25k speso fine; resistors may receive additional time |
-| 210 | **Breaking and Entering, Inherently Dangerous Areas** | To trespass into an area which may lead to injury using forcible entry. | 10 min brig (potentially increased by damage), 30k speso fine |
+| <a id="207"></a>207 | **Rioting** | To act as a member in a group that collectively commits acts of major vandalism, sabotage, grand sabotage, or other felony crimes. Greater offense: [307 — Inciting a Riot](#307). | HoS or Warden's judgement |
+| <a id="208"></a>208 | **Gross Criminal Negligence** | Negligence in one's duty causing harm to multiple individuals, a department, or directly leading to serious injury requiring emergency medical treatment. Lesser offense: [108 — Criminal Negligence](#108). | Baseline 10 min brig (varies by severity), possible demotion, 30k speso |
+| <a id="209"></a>209 | **Trespass, Inherently Dangerous Areas** | Trespassing in an area that may lead to injury of oneself or others. Includes No-Fire Zones. Lesser offense: [109 — Trespass](#109). Greater offense: [309 — Trespass, High Security Areas](#309). | 15 min brig, 25k speso fine; resistors may receive additional time |
+| <a id="210"></a>210 | **Breaking and Entering, Inherently Dangerous Areas** | To trespass into an area which may lead to injury using forcible entry. Lesser offense: [110 — Breaking and Entering](#110). Greater offense: [310 — Breaking and Entering, High Security Areas](#310). | 10 min brig (potentially increased by damage), 30k speso fine |
 | 211 | **Insubordination** | To knowingly disobey a lawful order from a superior without good reason. Includes lawful orders from security. | 5 min brig, possible demotion, 25k fine |
 | 212 | **Fraud** | To misrepresent one's intention in the interest of gaining property or money from another individual. | 10 min brig, return of property or money, 45k fine |
 | 213 | **Mutilation** | To purposefully modify an individual without consent, or with the intent to harm. Includes medical malpractice. | Reversal of operations if applicable, 5 min brig |
 | 215 | **False Imprisonment** | To unlawfully confine or restrain a person. | 5 min brig, 20k fine |
 | 217 | **Intimidation** | To threaten to take violent action against a person. | 5 min brig, 15k fine (increased to 35k if means to follow up are found on their person) |
-| 218 | **Sexual Harassment** | Any unwelcome conduct of a sexual nature — including physical touching, verbal comments, or non-verbal gestures — that violates a person's dignity or creates an intimidating, hostile, or offensive environment. | 5 min brig, 10k fine |
+| <a id="218"></a>218 | **Sexual Harassment** | Any unwelcome conduct of a sexual nature — including physical touching, verbal comments, or non-verbal gestures — that violates a person's dignity or creates an intimidating, hostile, or offensive environment. Greater offense: [318 — Sexual Assault](#318). | 5 min brig, 10k fine |
 
 ---
 
@@ -97,23 +97,23 @@ Crimes entail brig time and hefty fines.
 
 | Code | Crime | Description | Punishment |
 |:----:|:------|:------------|:-----------|
-| 301 | **Murder** | To purposefully kill someone. | 10–20 min brig, 40–60k speso fine |
-| 302 | **Larceny** | To steal rare, expensive (items of greater than 50k speso value), or restricted equipment from secure areas or one's person. | 10 min brig, return of items, 40k speso fine |
-| 303 | **Sabotage** | To destroy station assets or resources critical to normal or emergency station procedures, or cause sections of the station to become uninhabitable. | 10 min brig, 40k speso fine |
-| 304 | **Grand Conspiracy** | To knowingly work with another person in the interest of committing a Felony or Capital crime. | Same punishment as the associated crime |
-| 305 | **Hostile Activity** | To knowingly commit an act in direct opposition to the interests of Colonial Command, or to directly assist a known enemy of the Government. | 10 min brig, 20k speso fine |
+| <a id="301"></a>301 | **Murder** | To purposefully kill someone. Lesser offenses: [201 — Aggravated Assault](#201), [308 — Manslaughter](#308) *(unintentional)*. Greater offense: [401 — Capital Murder](#401). | 10–20 min brig, 40–60k speso fine |
+| <a id="302"></a>302 | **Larceny** | To steal rare, expensive (items of greater than 50k speso value), or restricted equipment from secure areas or one's person. Lesser offense: [202 — Theft](#202). | 10 min brig, return of items, 40k speso fine |
+| <a id="303"></a>303 | **Sabotage** | To destroy station assets or resources critical to normal or emergency station procedures, or cause sections of the station to become uninhabitable. Greater offense: [403 — Grand Sabotage](#403). | 10 min brig, 40k speso fine |
+| <a id="304"></a>304 | **Grand Conspiracy** | To knowingly work with another person in the interest of committing a Felony or Capital crime. Lesser offense: [204 — Conspiracy](#204). | Same punishment as the associated crime |
+| <a id="305"></a>305 | **Hostile Activity** | To knowingly commit an act in direct opposition to the interests of Colonial Command, or to directly assist a known enemy of the Government. Lesser offense: [205 — Hostile Agent](#205). Greater offense: [405 — Enemy of the Government](#405). | 10 min brig, 20k speso fine |
 | 306 | **Possession, Illegal Inherently Dangerous Equipment** | To possess restricted or illegal equipment with a primary purpose of causing harm or large amounts of destruction. C3 Equipment is included under this charge. | Item removal, 10 min brig, 35k speso fine, mandatory shuttle search |
-| 307 | **Inciting a Riot** | To perform actions in the interest of causing large amounts of unrest up to and including rioting. | 10 min brig, 45–60k speso fine |
-| 308 | **Manslaughter** | To unintentionally kill someone through negligent, but not malicious, actions. | 10 min brig, 35–50k speso fine |
-| 309 | **Trespass, High Security Areas** | Trespassing without permission in: Command areas, personal offices, weapons storage/production, explosive storage/production, or other high security areas. Includes NT Vaults, Syndicate caches, and NFZ-covered space. | 15 min brig, return of items taken, 45–60k speso fine; NFZ violation adds half the time spent in NFZ |
-| 310 | **Breaking and Entering, High Security Areas** | To commit trespassing into a secure area as defined in Code 309 using forcible entry. | As per 210, plus an additional 10k speso fine |
-| 311 | **Dereliction** | To willfully abandon an obligation critical to the station's continued operation. | Demotion, 40k speso fine |
+| <a id="307"></a>307 | **Inciting a Riot** | To perform actions in the interest of causing large amounts of unrest up to and including rioting. Lesser offense: [207 — Rioting](#207). | 10 min brig, 45–60k speso fine |
+| <a id="308"></a>308 | **Manslaughter** | To unintentionally kill someone through negligent, but not malicious, actions. For intentional killing, see [301 — Murder](#301). | 10 min brig, 35–50k speso fine |
+| <a id="309"></a>309 | **Trespass, High Security Areas** | Trespassing without permission in: Command areas, personal offices, weapons storage/production, explosive storage/production, or other high security areas. Includes NT Vaults, Syndicate caches, and NFZ-covered space. Lesser offense: [209 — Trespass, Inherently Dangerous Areas](#209). | 15 min brig, return of items taken, 45–60k speso fine; NFZ violation adds half the time spent in NFZ |
+| <a id="310"></a>310 | **Breaking and Entering, High Security Areas** | To commit trespassing into a secure area as defined in [309 — Trespass, High Security Areas](#309) using forcible entry. Lesser offense: [210 — Breaking and Entering, Inherently Dangerous Areas](#210). | [As per 210](#210), plus an additional 10k speso fine |
+| <a id="311"></a>311 | **Dereliction** | To willfully abandon an obligation critical to the station's continued operation. Greater offense: [411 — Grand Dereliction](#411). | Demotion, 40k speso fine |
 | 312 | **Embezzlement** | Embezzling funds from the station fund computers. | Return of funds, 40k fine, demotion, 15 min brig |
 | 313 | **Illegal Mindbreaking** | Permanent removal of a psion's abilities not carried out as a lawful punishment, by a Mantis in the line of duty, or during an extenuating emergency. | 15 min brig, 85k fine, returning of psion's powers if able, removal of perpetrator's powers if applicable |
 | 314 | **Impersonation** | To assume the identity of another individual or job. | Removal of items used to impersonate, 40k speso fine, 10 min brig |
-| 315 | **Kidnapping** | To unlawfully abduct a person to a new location and confine them against their will. | 10 min brig, 70k fine |
+| <a id="315"></a>315 | **Kidnapping** | To unlawfully abduct a person to a new location and confine them against their will. Greater offense: [415 — Grand Kidnapping](#415). | 10 min brig, 70k fine |
 | 317 | **Coercion** | To offer or accept a bribe as, or to, a contracted member of the station, or to blackmail someone. | 10 min brig, removal of bribe money or items, 40k fine |
-| 318 | **Sexual Assault** | Any involuntary, non-consensual sexual act ranging from unwanted touching to forced penetration that violates a person's bodily autonomy. | 15 min brig, 40k fine |
+| <a id="318"></a>318 | **Sexual Assault** | Any involuntary, non-consensual sexual act ranging from unwanted touching to forced penetration that violates a person's bodily autonomy. Lesser offense: [218 — Sexual Harassment](#218). | 15 min brig, 40k fine |
 
 ---
 
@@ -123,14 +123,14 @@ These tend to use extreme punishments.
 
 | Code | Crime | Description | Punishment |
 |:----:|:------|:------------|:-----------|
-| 401 | **Capital Murder** | To commit the act of murder with clear intent to kill, and to have materially taken steps to prevent the revival of the victim, or force Borging or discorporealization without consent or authorization from station command. | Execution, Permanent Confinement, or Force Borgification |
-| 403 | **Grand Sabotage** | To destroy or modify station assets or equipment without which the station may collapse or otherwise become uninhabitable. | Permanent Confinement, Demotion |
+| <a id="401"></a>401 | **Capital Murder** | To commit the act of murder with clear intent to kill, and to have materially taken steps to prevent the revival of the victim, or force Borging or discorporealization without consent or authorization from station command. Lesser offense: [301 — Murder](#301). | Execution, Permanent Confinement, or Force Borgification |
+| <a id="403"></a>403 | **Grand Sabotage** | To destroy or modify station assets or equipment without which the station may collapse or otherwise become uninhabitable. Lesser offense: [303 — Sabotage](#303). | Permanent Confinement, Demotion |
 | 404 | **Espionage** | To knowingly betray critical information to enemies of the station. | Permanent Confinement |
-| 405 | **Enemy of the Government** | To be a member of any of the following organizations: True Nexus, Xenoborg Collective, hostile boarding parties, Changeling Hiveminds, cults, and Dirizher Cartel. | Permanent Confinement or transportation to Colonial Command for interrogation |
+| <a id="405"></a>405 | **Enemy of the Government** | To be a member of any of the following organizations: True Nexus, Xenoborg Collective, hostile boarding parties, Changeling Hiveminds, cults, and Dirizher Cartel. Lesser offenses: [205 — Hostile Agent](#205), [305 — Hostile Activity](#305). | Permanent Confinement or transportation to Colonial Command for interrogation |
 | 407 | **Subversion of the Chain of Command** | Disrupting the chain of command via the murder of a commanding officer or illegally declaring oneself to be a commanding officer. | Permanent Confinement; Execution if Criminal is a Head Revolutionary |
 | 408 | **Biological Terror** | To knowingly release or cause the station to become affected by a disease, plant, or other biological form which may spread uncontained and/or cause serious physical harm. | Permanent Confinement, Execution, or Force Borgification |
-| 411 | **Grand Dereliction** | As security or command, to act in a way that is detrimental to the station, sector, or Colonial Command (e.g., selling station gear to spacers, intentionally permitting or encouraging felony or capital crimes). | Permanent Confinement, transportation to Colonial Command, Execution in extreme cases |
-| 415 | **Grand Kidnapping** | To unlawfully abduct and confine a Command member or higher authority against their will. | Permanent Confinement |
+| <a id="411"></a>411 | **Grand Dereliction** | As security or command, to act in a way that is detrimental to the station, sector, or Colonial Command (e.g., selling station gear to spacers, intentionally permitting or encouraging felony or capital crimes). Lesser offense: [311 — Dereliction](#311). | Permanent Confinement, transportation to Colonial Command, Execution in extreme cases |
+| <a id="415"></a>415 | **Grand Kidnapping** | To unlawfully abduct and confine a Command member or higher authority against their will. Lesser offense: [315 — Kidnapping](#315). | Permanent Confinement |
 | 416 | **Perfidy** | The intentional, deliberate baiting of Security or Command officials with a peaceful resolution, only to betray their trust to either elude capture or engage in a surprise attack. | Permanent Confinement |
 | 417 | **Brainwashing** | To brainwash someone non-consensually or to make them commit crimes. | Punishments applied for crimes committed by the brainwashed; Permanent Confinement, Forced Borgification, or Execution |
 
