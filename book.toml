@@ -1,0 +1,18 @@
+[book]
+authors = ["HardLight Contributors"]
+language = "en"
+src = "src"
+title = "HardLight Wiki"
+description = "Rules, space law, policies, and guidelines for HardLight"
+
+[output.html]
+default-theme = "navy"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/okdamsam/hardlight-docs"
+edit-url-template = "https://github.com/okdamsam/hardlight-docs/edit/main/{path}"
+curly-quotes = true
+no-section-label = true
+
+[output.html.fold]
+enable = true
+level = 0
