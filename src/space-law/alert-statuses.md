@@ -1,6 +1,6 @@
 # Alert Statuses
 
-> Alert statuses are declared station-wide by the **Captain** or **Head of Security** and indicate the current threat level to the sector. Each status changes what Security and crew are authorized to do. Changes take effect immediately upon announcement.
+> Alert statuses are declared station-wide by any member of **Command** and indicate the current threat level to the sector. Each status changes what Security and crew are authorized to do. Changes take effect immediately upon announcement.
 
 ---
 
@@ -42,7 +42,7 @@ Blue Alert should be declared when **any** of the following apply:
 - Unusual or coordinated suspicious activity suggests an organized threat
 - The Captain or HoS determines that elevated readiness is necessary for crew safety
 
-The decision to declare Blue Alert rests with the **Captain** or **Head of Security**. Either may declare it unilaterally; the HoS should notify the Captain promptly.
+Any member of **Command** may declare Blue Alert. The declaring member should notify the Captain and HoS promptly.
 
 ### What Changes on Blue Alert
 
@@ -52,8 +52,8 @@ Officers may conduct searches at their discretion without a warrant when there i
 **Identification**
 All crew are required to wear their ID card visibly. Failure to produce or wear a valid ID card during Blue Alert is a chargeable offense under [118 — Failure to Identify](crimes-and-punishments.md#118).
 
-**CEDT Activation**
-CEDTs may be activated at HoS or Captain authorization during Blue Alert. A CEDT firing on an individual during Blue Alert **authorizes a search at the responding officer's discretion** — no warrant is required. See [CEDT — Contraband Entry Denial Turrets](security-guidebook.md#cedt--contraband-entry-denial-turrets).
+**CDET Activation**
+CDETs may be activated at Command authorization during Blue Alert. A CDET firing on an individual during Blue Alert **authorizes a search at the responding officer's discretion** — no warrant is required. See [CDET — Contraband Denying Energy Turrets](security-guidebook.md#cdet--contraband-denying-energy-turrets).
 
 **Equipment**
 Officers may visibly carry and display weapons. Officers may carry one step above their standard-issue load at HoS discretion.
@@ -83,7 +83,7 @@ Red Alert **should not be treated as a permanent state.** It must be lifted as s
 All Blue Alert changes remain in effect, plus:
 
 **C3 Equipment**
-Security personnel may carry and deploy Class 3 (C3) equipment during Red Alert. All C3 equipment must be returned to the armory when Red Alert is lifted.
+Security personnel may carry and deploy Class 3 (C3) equipment during Red Alert. Crew members and freelancers may carry C3 during Red Alert **only if specifically authorized** by the HoS or Captain — a Red Alert declaration alone is not general authorization. Unauthorized possession of C3 remains chargeable under [306 — Possession, Illegal Inherently Dangerous Equipment](crimes-and-punishments.md#306). All C3 equipment must be returned to the armory when Red Alert is lifted.
 
 **Lethal Force**
 Security is authorized to use lethal force when the situation warrants it. Lethal force is authorized — not mandated. Officers must still exercise judgment proportional to the threat. See [Security Authority](security-authority.md) for the full Use of Force framework.
@@ -95,7 +95,7 @@ Crew may be directed by Security to assist in responding to the threat. Crew who
 
 ## Lifting an Alert
 
-Only the **Captain** or **Head of Security** may downgrade alert status. When an alert is lifted:
+Any member of **Command** may downgrade alert status. When an alert is lifted:
 
 - C3 equipment must be secured and returned to the armory immediately
 - Search authority returns to the standard Green Alert warrant requirement
