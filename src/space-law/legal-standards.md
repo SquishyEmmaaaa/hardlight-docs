@@ -68,7 +68,7 @@ Probable cause is the **threshold for arrest and warrants**. It requires more th
 
 Probable cause does **not** require absolute certainty, but must be supported by facts an officer can clearly articulate — not a hunch.
 
-> **Example:** A crew member is captured on camera breaking a window and removing items from a locker. This constitutes probable cause to arrest for [110 — Breaking and Entering](crimes-and-punishments.md#110) and [102 — Pickpocketing](crimes-and-punishments.md#102).
+> **Example (continuing the Reasonable Suspicion scenario above):** During lawful investigatory detention, the officer questions the Research Assistant seen circling the bridge. The individual then flees. The officer gives a clear order to stop, and the individual continues fleeing. This establishes probable cause for [119 — Resist, Delay, or Obstruct Justice](crimes-and-punishments.md#119). Security uses a disabler to stop the individual, applies restraints, and conducts a search incident to arrest. During that lawful search, Security finds an access breaker and a syndicate uplink. Security has now lawfully located and arrested a syndicate operative before they could cause harm.
 
 ---
 

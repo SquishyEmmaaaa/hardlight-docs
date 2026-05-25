@@ -23,7 +23,7 @@
 
 > **From oksam (OOC):**
 >
-> Security can be one of the most rewarding, engaing, and entertaining roles on the server. However, it comes with it's challanges.
+> Security can be one of the most rewarding, engaging, and entertaining roles on the server. However, it comes with it's challanges.
 >
 > Players who choose to play security roles are empowered with the ability to interrupt player's gameplay. Their authority entrusted in them through their in-character appointment carries an out-of-character impact. 
 >
