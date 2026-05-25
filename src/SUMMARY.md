@@ -18,6 +18,7 @@
 - [Legal Standards](space-law/legal-standards.md)
 - [Escalation Policy](space-law/escalation.md)
 - [Legal Procedures](space-law/legal-procedures.md)
+- [Changelog](space-law/changelog.md)
 
 # Policies
 

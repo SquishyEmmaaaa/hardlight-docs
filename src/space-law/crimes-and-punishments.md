@@ -159,7 +159,10 @@ These crimes tend to be just brig time.
 | <a id="110"></a>110 | **Breaking and Entering** | • Used a method of forcible entry to trespass into an area<br>• Includes non-destructive methods (hacking, bypassing access controls) | ↓ Greater: [210 — Breaking and Entering, Inherently Dangerous Areas](#210) | Brig time varies from 5 min based on damage caused |
 | <a id="111"></a>111 | **Discriminatory Language** | • Used language targeting an individual<br>• That demeans, generalizes, or de-personifies them | — | 10 min brig |
 | <a id="112"></a>112 | **Fine Evasion** | • Purposefully avoided, refused, or was unable to pay a legal fine<br>• After reasonable notice and opportunity to pay | — | 15 sec per 1k speso owed (e.g., 30k fine = 7.5 min brig) |
+| <a id="116"></a>116 | **Harassment** | • Repeatedly targeted, followed, contacted, provoked, or otherwise engaged with another individual<br>• After being clearly told to stop<br>• Creating a hostile, intimidating, or disruptive environment | ↓ Greater: [217 — Intimidation](#217) | 5–10 min brig, 15k speso fine |
 | 117 | **Brandishing** | • Brandished a weapon<br>• Without lawful purpose or due cause | — | 5 min brig or a person search |
+| <a id="118"></a>118 | **Failure to Identify** | • Refused to provide name, job, or identification<br>• During lawful questioning or detainment by security | — | Warning; 5 min brig if refusal continues |
+| <a id="119"></a>119 | **Obstruction of Justice** | • Interfered with a lawful arrest, investigation, evidence collection, prisoner transport, or security operation | ↓ Greater: [214 — Evidence Tampering](#214) | 5–10 min brig, fine optional |
 
 <details>
 <summary><strong>101 — Assault: Officer Guidance</strong></summary>
@@ -403,6 +406,66 @@ PC may be established by: direct observation, camera footage, or credible witnes
 
 </details>
 
+<details>
+<summary><strong>116 — Harassment: Officer Guidance</strong></summary>
+
+**Elements in Detail**
+
+1. **Repeatedly targeted or engaged** — A pattern of behavior is required. A single unwanted contact does not satisfy this element — the individual must have continued after being clearly told to stop. The behavior need not be violent or threatening.
+2. **After being clearly told to stop** — The target or a security officer must have issued a clear instruction to cease contact. Ambiguous social cues do not satisfy this element; the stop order must have been unambiguous.
+3. **Creating a hostile, intimidating, or disruptive environment** — The aggregate effect of the conduct must be objectively hostile or disruptive. Mild annoyance without meaningful impact on the target's environment does not qualify.
+
+**Standard of Proof** — *Probable Cause required for charge*
+
+PC may be established by: victim reports documenting the pattern of contact, communications logs showing repeated contact after a stop order was issued, or direct observation of the behavior continuing after a verbal warning.
+
+**Officer Notes**
+
+- This charge is distinct from [217 — Intimidation](#217) (which requires an explicit threat of violence) and [218 — Sexual Harassment](#218) (which covers unwelcome sexual conduct). 116 requires neither a threat nor a sexual element.
+- A single incident without prior pattern generally warrants a warning rather than a charge. Document each incident in the report.
+- If the individual continues after being charged, [M02 — Elevated Sentencing](#m02) applies to repeat behavior.
+
+</details>
+
+<details>
+<summary><strong>118 — Failure to Identify: Officer Guidance</strong></summary>
+
+**Elements in Detail**
+
+1. **Refused to provide name, job, or identification** — Actively declined, provided false information, or remained non-responsive when asked for identifying information. An individual who provides a name but lacks their ID card is not automatically in violation if they are otherwise cooperative.
+2. **During lawful questioning or detainment** — The questioning must be lawful: an officer must have reasonable suspicion or greater to initiate questioning. Demands for ID without any articulable basis are not lawful.
+
+**Standard of Proof** — *Probable Cause required for charge*
+
+PC is established by: the individual's direct refusal, confirmed provision of false information, or documented non-response during a lawful stop.
+
+**Officer Notes**
+
+- Always issue a verbal warning before charging. Most cooperative crew will comply when asked. Reserve the 5-minute brig for those who actively and persistently refuse.
+- An individual who provides a name but cannot produce their ID card is not automatically in violation — give them an opportunity to retrieve it.
+- Providing false identification supports a charge of [314 — Impersonation](#314) in addition to this.
+
+</details>
+
+<details>
+<summary><strong>119 — Obstruction of Justice: Officer Guidance</strong></summary>
+
+**Elements in Detail**
+
+1. **Interfered with a lawful security operation** — Actively impeded: physically blocking an arrest, providing false information during an investigation, disrupting evidence collection, interfering with prisoner transport, or otherwise obstructing an officer performing their duties. Passive non-cooperation (silence, refusing to answer questions) generally does not constitute obstruction — active interference is required.
+
+**Standard of Proof** — *Probable Cause required for charge*
+
+PC may be established by: direct observation of the interference, officer testimony, or witness accounts of the obstructing behavior during an active security operation.
+
+**Officer Notes**
+
+- Distinguish from [118 — Failure to Identify](#118): silence or non-cooperation is 118; actively interfering — blocking, misleading, physically impeding — is 119.
+- If the interference involved destroying, hiding, or tampering with evidence, charge [214 — Evidence Tampering](#214) instead of or in addition to 119.
+- Bystanders who inadvertently obstruct by being in the way are not committing this offense — intent to interfere, or knowing interference, is required.
+
+</details>
+
 ---
 
 ## Misdemeanors
@@ -414,8 +477,8 @@ These crimes tend to include both fines and brig time.
 | <a id="201"></a>201 | **Aggravated Assault** | • Took physical action against a person<br>• With intent to grievously harm<br>• But without intent to kill | ↑ Lesser: [101 — Assault](#101)<br>↓ Greater: [301 — Murder](#301) | 5 min brig, flat 25k fine |
 | <a id="202"></a>202 | **Theft** | • Stole equipment or items from a workplace<br>• Or items of extraordinary value from a person's person | ↑ Lesser: [102 — Pickpocketing](#102)<br>↓ Greater: [302 — Larceny](#302) | Return of items, 5 min brig, 20k fine |
 | <a id="203"></a>203 | **Vandalism, Major** | • Destroyed or damaged non-critical furniture, vendors, or personal property<br>• In a manner that cannot be repaired | ↑ Lesser: [103 — Minor Vandalism](#103) | Replacement of item(s), monetary recompensation, 5 min brig |
-| <a id="204"></a>204 | **Conspiracy** | • Knowingly worked with another person<br>• With the intent to commit an illegal action | ↓ Greater: [304 — Grand Conspiracy](#304) | 5–10 min brig (discretionary) |
-| <a id="205"></a>205 | **Hostile Agent** | • Knowingly acted as a recruiter, representative, messenger, ally, benefactor, or associate<br>• Of a hostile organization (see [405 — Enemy of the Government](#405)) | ↓ Greater: [305 — Hostile Activity](#305) | 5 min brig, 25k fine |
+| <a id="204"></a>204 | **Conspiracy** | • Knowingly planned, assisted, or coordinated with another individual<br>• In preparation for committing a misdemeanor or greater offense | ↓ Greater: [304 — Grand Conspiracy](#304) | 5–10 min brig (discretionary) |
+| <a id="205"></a>205 | **Hostile Agent** | • Knowingly supported, aided, or associated with a hostile organization<br>• In a non-combat capacity: recruitment, messaging, smuggling, harboring, or financing<br>• (see [405 — Enemy of the Government](#405)) | ↓ Greater: [305 — Hostile Activity](#305) | 5 min brig, 25k fine |
 | 206 | **Possession, Contraband Equipment** | • Possessed Class 2 contraband equipment<br>• Without a valid C2 Permit | — | 5 min brig, 25k fine, confiscation |
 | <a id="207"></a>207 | **Rioting** | • Acted as a member of a group<br>• That collectively committed major vandalism, sabotage, or other felony crimes | ↓ Greater: [307 — Inciting a Riot](#307) | HoS or Warden's judgement |
 | <a id="208"></a>208 | **Gross Criminal Negligence** | • Negligent in their duty<br>• Caused harm to multiple individuals or a department<br>• Or directly led to serious injury requiring emergency medical treatment | ↑ Lesser: [108 — Criminal Negligence](#108) | Baseline 10 min brig (varies by severity), possible demotion, 30k speso |
@@ -423,10 +486,14 @@ These crimes tend to include both fines and brig time.
 | <a id="210"></a>210 | **Breaking and Entering, Inherently Dangerous Areas** | • Used forcible entry to trespass<br>• Into an area that may lead to injury of oneself or others | ↑ Lesser: [110 — Breaking and Entering](#110)<br>↓ Greater: [310 — Breaking and Entering, High Security Areas](#310) | 10 min brig (potentially increased by damage), 30k speso fine |
 | 211 | **Insubordination** | • Knowingly disobeyed a lawful order<br>• From a superior or security officer<br>• Without good reason | — | 5 min brig, possible demotion, 25k fine |
 | 212 | **Fraud** | • Misrepresented their intentions<br>• With the purpose of gaining property or money from another individual | — | 10 min brig, return of property or money, 45k fine |
-| 213 | **Mutilation** | • Purposefully modified a person without consent, or with intent to harm<br>• Includes medical malpractice | — | Reversal of operations if applicable, 5 min brig |
-| 215 | **False Imprisonment** | • Unlawfully confined or restrained a person<br>• Without legal authority to do so | — | 5 min brig, 20k fine |
+| 213 | **Mutilation** | • Purposefully modified a person without consent, or with intent to harm<br>• Includes minor medical malpractice | ↓ Greater: [319 — Unauthorized Implantation](#319), [320 — Gross Medical Malpractice](#320) | Reversal of operations if applicable, 5 min brig |
+| <a id="214"></a>214 | **Evidence Tampering** | • Destroyed, concealed, altered, planted, or stole evidence<br>• Related to an active or reasonably anticipated investigation | ↑ Lesser: [119 — Obstruction of Justice](#119) | 10 min brig, 30k fine |
+| <a id="215"></a>215 | **False Imprisonment** | • Unlawfully arrested, detained, confined, or held a person<br>• Includes holding an individual beyond their lawful sentence<br>• Without legal authority to do so | — | 5 min brig, 20k fine |
+| <a id="216"></a>216 | **False Report** | • Knowingly submitted a false criminal report, false witness statement, or false emergency call | — | 5–10 min brig, 25k fine |
 | 217 | **Intimidation** | • Threatened to take violent action<br>• Against a specific person | — | 5 min brig, 15k fine (increased to 35k if means to follow up are found on their person) |
 | <a id="218"></a>218 | **Sexual Harassment** | • Engaged in unwelcome conduct of a sexual nature<br>• Including physical touching, verbal comments, or non-verbal gestures<br>• That violated dignity or created a hostile or offensive environment | ↓ Greater: [318 — Sexual Assault](#318) | 5 min brig, 10k fine |
+| <a id="219"></a>219 | **Unlawful Search** | • Conducted a search of a person, vessel, or department<br>• Without lawful cause, consent, a valid warrant, or emergency justification | ↓ Greater: [220 — Abuse of Authority](#220) | 5 min brig, possible demotion |
+| <a id="220"></a>220 | **Abuse of Authority** | • Used a position of command, security, medical, or legal authority<br>• To harass, extort, falsely arrest, or unlawfully punish another individual | ↑ Lesser: [219 — Unlawful Search](#219) | 10 min brig, demotion, possible job ban (IC) |
 
 <details>
 <summary><strong>201 — Aggravated Assault: Officer Guidance</strong></summary>
@@ -504,7 +571,7 @@ PC may be established by: communications or messages showing coordination, evide
 **Officer Notes**
 
 - The co-conspirators must be identified — charging one person for conspiracy requires establishing who they conspired with.
-- If the conspiracy was toward a Felony or Capital crime, charge [304 — Grand Conspiracy](#304) instead.
+- This charge applies to conspiracy toward a Misdemeanor offense. For conspiracy toward a Felony or Capital crime, charge [304 — Grand Conspiracy](#304) instead.
 - Charging [M13 — Cooperation with Security](#m13) can reduce sentences for individuals who assist in identifying co-conspirators.
 
 </details>
@@ -514,8 +581,9 @@ PC may be established by: communications or messages showing coordination, evide
 
 **Elements in Detail**
 
-1. **Acted in a supporting role** — Recruited for, delivered messages for, provided resources to, or otherwise assisted a hostile organization. Active combat or attacks are [305 — Hostile Activity](#305).
-2. **For a hostile organization** — As defined under [405 — Enemy of the Government](#405): True Nexus, Xenoborg Collective, hostile boarding parties, Changeling Hiveminds, cults, and Dirizher Cartel.
+1. **Knowingly supported, aided, or associated** — Provided passive, logistical, or organizational assistance: recruiting members, relaying messages, smuggling supplies, harboring personnel, or financing operations. Active combat participation or direct offensive acts are [305 — Hostile Activity](#305).
+2. **In a non-combat capacity** — The distinction from 305 is the nature of involvement. If the individual took direct offensive action against the station or crew, 305 applies. If they enabled or supported operations without directly participating in attacks, 205 applies.
+3. **For a hostile organization** — As defined under [405 — Enemy of the Government](#405): True Nexus, Xenoborg Collective, hostile boarding parties, Changeling Hiveminds, cults, and Dirizher Cartel.
 
 **Standard of Proof** — *Probable Cause required for charge*
 
@@ -644,7 +712,7 @@ PC may be established by: direct observation or testimony from the issuing offic
 
 **Officer Notes**
 
-- An unlawful order (one that would require committing a crime) cannot be the basis for an insubordination charge.
+- An unlawful order cannot be the basis for an insubordination charge. **Orders that violate Space Law, SOP, or present an unreasonable danger are not lawful orders.**
 - Demotion is discretionary — the relevant department head or command must authorize it.
 - If an individual disobeys security specifically during an arrest, apply [M06 — Resisting Arrest](#m06) in addition.
 
@@ -676,7 +744,7 @@ PC may be established by: evidence of the false representation (records, communi
 **Elements in Detail**
 
 1. **Purposefully modified a person** — Made a physical alteration to another individual's body through surgery, implants, forced chemical treatment, or other means.
-2. **Without consent or with intent to harm** — The individual did not agree to the modification, or the modification was carried out with the purpose of causing harm. Includes medical malpractice (modifications that caused harm through gross negligence or willful disregard for patient welfare).
+2. **Without consent or with intent to harm** — The individual did not agree to the modification, or the modification was carried out with the purpose of causing harm. For malpractice resulting in death, permanent disability, or other severe harm, see [320 — Gross Medical Malpractice](#320).
 
 **Standard of Proof** — *Probable Cause required for charge*
 
@@ -685,7 +753,8 @@ PC may be established by: medical examination confirming modification, absence o
 **Officer Notes**
 
 - Reversal of the modifications, if medically feasible, is required as part of sentencing — coordinate with the CMO.
-- Medical malpractice qualifies when a licensed medical professional performs a procedure that causes harm through willful disregard for protocol or the patient's welfare.
+- For implant-specific procedures (installing trackers, implants, mindshields, or deimplantation), charge [319 — Unauthorized Implantation / Deimplantation](#319) at the felony level instead.
+- For malpractice that results in death, permanent disability, or other severe harm, charge [320 — Gross Medical Malpractice](#320) instead.
 - If the individual performed modifications to benefit a hostile organization or as part of a larger conspiracy, consider layering applicable charges.
 
 </details>
@@ -695,8 +764,9 @@ PC may be established by: medical examination confirming modification, absence o
 
 **Elements in Detail**
 
-1. **Unlawfully confined or restrained a person** — Physically prevented someone from moving freely: locking them in a room, using restraints, pinning them, or otherwise restricting their movement.
-2. **Without legal authority** — The confinement was not authorized by Space Law, a lawful order, or the individual's own consent. Security officers detaining a suspect lawfully are exempt.
+1. **Unlawfully arrested, detained, confined, or held a person** — Encompasses the full spectrum of unlawful restriction: effecting an arrest without legal basis, detaining without charges, physically confining an individual, using restraints without authorization, or holding a prisoner past the expiration of their sentence.
+2. **Including holding beyond a lawful sentence** — A Security Officer who keeps a prisoner after their sentence has run, or extends a sentence without proper authorization, satisfies this element. The original arrest may have been lawful; the continued hold after the sentence ends is not.
+3. **Without legal authority** — No valid warrant, no officer-witness exception, no active emergency, no lawful sentence, and no consent. Security officers making lawful arrests are exempt; those arresting without basis or holding beyond sentence are not.
 
 **Standard of Proof** — *Probable Cause required for charge*
 
@@ -704,9 +774,9 @@ PC may be established by: victim testimony, physical evidence of restraint or co
 
 **Officer Notes**
 
-- This charge applies to crew members who lock others in rooms, restrain them without cause, or otherwise confine them outside of any legal authority.
+- This charge applies to anyone — including Security Officers — who arrest, detain, confine, or hold individuals without legal authority. Unlawful arrests (without warrant, officer-witness basis, or alert-level exception) satisfy this charge, not just physical confinement.
 - If the individual transported the victim to a new location as well as confining them, consider [315 — Kidnapping](#315).
-- Security officers who over-hold prisoners beyond their sentence may be subject to this charge under [411 — Grand Dereliction](#411) in serious cases.
+- Security officers who hold prisoners beyond their sentence may be charged under this offense; extreme or deliberate cases may also warrant [411 — Grand Dereliction](#411).
 
 </details>
 
@@ -750,6 +820,85 @@ PC may be established by: victim testimony, witness accounts, communications log
 
 </details>
 
+<details>
+<summary><strong>214 — Evidence Tampering: Officer Guidance</strong></summary>
+
+**Elements in Detail**
+
+1. **Destroyed, concealed, altered, planted, or stole evidence** — Any deliberate act that changes the integrity or availability of evidence: destroying physical items, hiding contraband, altering records, fabricating evidence, or removing items from a scene.
+2. **Related to an active or reasonably anticipated investigation** — The individual must have known, or had reasonable reason to believe, that an investigation was underway or imminent. Disposing of an item before any investigation could be expected does not satisfy this element.
+
+**Standard of Proof** — *Probable Cause required for charge*
+
+PC may be established by: direct observation of the tampering act, evidence of missing or altered items linked to the individual, communications indicating intent to destroy or hide evidence, or physical signs at the scene of tampering.
+
+**Officer Notes**
+
+- Evidence tampering is a distinct offense from the underlying crime the evidence relates to — charge both where applicable.
+- If the tampering was specifically designed to obstruct a security operation in progress, consider adding [119 — Obstruction of Justice](#119).
+- Document what evidence was affected and its status — this is critical for any subsequent prosecution of the underlying crime.
+
+</details>
+
+<details>
+<summary><strong>216 — False Report: Officer Guidance</strong></summary>
+
+**Elements in Detail**
+
+1. **Knowingly submitted a false report** — The individual deliberately provided information they knew to be untrue in a criminal report, witness statement, or emergency communication. Honestly mistaken information, even if inaccurate, does not satisfy this element — knowing falsity is required.
+
+**Standard of Proof** — *Probable Cause required for charge*
+
+PC may be established by: evidence that the reported events did not occur as described, communications or records contradicting the report, or the individual's own admission. Establishing that the individual *knew* the report was false is key — consider their access to the facts and their stated certainty.
+
+**Officer Notes**
+
+- False emergency calls that dispatched security to a non-existent threat are chargeable, particularly when crew or station safety was compromised by the diversion.
+- If a false report was made with intent to have an innocent person arrested, consider whether [215 — False Imprisonment](#215) or [220 — Abuse of Authority](#220) should be added if the reporter held an authority role.
+- Document the specific false content and the evidence contradicting it in the case file.
+
+</details>
+
+<details>
+<summary><strong>219 — Unlawful Search: Officer Guidance</strong></summary>
+
+**Elements in Detail**
+
+1. **Conducted a search** — Actively examined a person's body, belongings, vessel, or department space. Observing items in plain view does not constitute a search.
+2. **Without lawful justification** — No reasonable suspicion or probable cause existed; no valid warrant was obtained; the individual did not consent; and no emergency circumstances (active threat, imminent harm) applied.
+
+**Standard of Proof** — *Probable Cause required for charge*
+
+PC may be established by: the victim's testimony that no consent was given, absence of any warrant, absence of articulable suspicion, or documentation showing the search was conducted without procedural basis.
+
+**Officer Notes**
+
+- This charge applies primarily to Security Officers conducting searches outside their legal authority. Evidence obtained through an unlawful search may not be usable in further charges.
+- On Blue Alert, individual search warrants are waived for individuals exhibiting suspicious behavior — this is not a blanket authorization to search everyone.
+- If the unlawful search was part of a broader pattern of abuse of position, charge [220 — Abuse of Authority](#220) in addition to or instead of this.
+
+</details>
+
+<details>
+<summary><strong>220 — Abuse of Authority: Officer Guidance</strong></summary>
+
+**Elements in Detail**
+
+1. **Used a position of authority** — The individual held a recognized role that conferred power over others: Security, Command, Medical, Legal, or equivalent. A crew member without such a role cannot be charged under this offense.
+2. **To harass, extort, falsely arrest, or unlawfully punish** — The authority was misused to cause harm: subjecting someone to unwanted enforcement action, leveraging authority to extract compliance or goods, arresting without cause, or imposing punishments outside legal authorization.
+
+**Standard of Proof** — *Probable Cause required for charge*
+
+PC may be established by: victim testimony detailing the specific abuse, documentation of the unlawful action taken (false arrest record, unauthorized punishment), witness accounts, or a pattern of conduct evidencing misuse of authority.
+
+**Officer Notes**
+
+- Security officers who conduct unlawful searches, make pretext arrests, or hold prisoners beyond their sentence may be charged under this offense. [219 — Unlawful Search](#219) covers the specific act; 220 covers the broader misuse.
+- Demotion is required upon conviction — the individual loses the position that enabled the offense.
+- An IC job ban is discretionary and reserved for egregious or repeated abuse. It requires Captain or HoS authorization and documentation.
+
+</details>
+
 ---
 
 ## Felonies
@@ -762,7 +911,7 @@ Crimes entail brig time and hefty fines.
 | <a id="302"></a>302 | **Larceny** | • Stole rare, expensive (>50k speso value), or restricted equipment<br>• From a secure area or directly from a person | ↑ Lesser: [202 — Theft](#202) | 10 min brig, return of items, 40k speso fine |
 | <a id="303"></a>303 | **Sabotage** | • Destroyed station assets or resources critical to normal or emergency station procedures<br>• Or caused sections of the station to become uninhabitable | ↓ Greater: [403 — Grand Sabotage](#403) | 10 min brig, 40k speso fine |
 | <a id="304"></a>304 | **Grand Conspiracy** | • Knowingly worked with another person<br>• With the intent of committing a Felony or Capital crime | ↑ Lesser: [204 — Conspiracy](#204) | Same punishment as the associated crime |
-| <a id="305"></a>305 | **Hostile Activity** | • Committed an act in direct opposition to Colonial Command's interests<br>• Or directly assisted a known enemy of the Government | ↑ Lesser: [205 — Hostile Agent](#205)<br>↓ Greater: [405 — Enemy of the Government](#405) | 10 min brig, 20k speso fine |
+| <a id="305"></a>305 | **Hostile Activity** | • Committed a direct hostile act against the station, crew, or Colonial Command<br>• In coordination with or on behalf of a hostile organization | ↑ Lesser: [205 — Hostile Agent](#205)<br>↓ Greater: [405 — Enemy of the Government](#405) | 10 min brig, 20k speso fine |
 | 306 | **Possession, Illegal Inherently Dangerous Equipment** | • Possessed restricted or illegal equipment<br>• With a primary purpose of causing harm or large-scale destruction<br>• C3 equipment is included | — | Item removal, 10 min brig, 35k speso fine, mandatory shuttle search |
 | <a id="307"></a>307 | **Inciting a Riot** | • Performed actions intended to cause large-scale unrest<br>• Up to and including facilitating or causing rioting | ↑ Lesser: [207 — Rioting](#207) | 10 min brig, 45–60k speso fine |
 | <a id="308"></a>308 | **Manslaughter** | • Unintentionally killed another person<br>• Through negligent but non-malicious actions | [301 — Murder](#301) for intentional killing | 10 min brig, 35–50k speso fine |
@@ -775,6 +924,8 @@ Crimes entail brig time and hefty fines.
 | <a id="315"></a>315 | **Kidnapping** | • Unlawfully abducted a person<br>• Transported them to a new location<br>• Confined them against their will | ↓ Greater: [415 — Grand Kidnapping](#415) | 10 min brig, 70k fine |
 | 317 | **Coercion** | • Offered or accepted a bribe as or to a contracted station member<br>• Or blackmailed someone | — | 10 min brig, removal of bribe money or items, 40k fine |
 | <a id="318"></a>318 | **Sexual Assault** | • Engaged in an involuntary, non-consensual sexual act<br>• Ranging from unwanted touching to forced penetration<br>• Violating bodily autonomy | ↑ Lesser: [218 — Sexual Harassment](#218) | 15 min brig, 40k fine |
+| <a id="319"></a>319 | **Unauthorized Implantation / Deimplantation** | • Implanted, removed, tracked, mindshielded, or otherwise physically modified another individual<br>• Without their informed consent or lawful authority | ↑ Lesser: [213 — Mutilation](#213) | 10–15 min brig, 40k fine, reversal if possible |
+| <a id="320"></a>320 | **Gross Medical Malpractice** | • Committed severe medical misconduct<br>• Resulting in death, permanent disability, wrongful Borgification, organ loss, or major irreversible harm<br>• Through willful disregard or gross negligence | ↑ Lesser: [208 — Gross Criminal Negligence](#208) | 10–15 min brig, demotion, 50k fine |
 
 <details>
 <summary><strong>301 — Murder: Officer Guidance</strong></summary>
@@ -860,8 +1011,8 @@ PC may be established by: communications establishing coordination, evidence of 
 
 **Elements in Detail**
 
-1. **Acted against Colonial Command's interests** — Committed acts that directly undermined Colonial Command authority, policy, or operations — not mere dissent, but active opposition.
-2. **Or directly assisted an enemy of the Government** — Provided material aid, operational support, or other direct assistance to a hostile organization (see [405](#405)).
+1. **Committed a direct hostile act** — Took active offensive or operational action against the station, crew, or Colonial Command: direct attacks, sabotage operations, intelligence delivery, or coordinated disruption. Passive support (recruitment, logistics, harboring) is [205 — Hostile Agent](#205).
+2. **In coordination with or on behalf of a hostile organization** — The act was committed as part of, or at the direction of, a hostile organization (see [405 — Enemy of the Government](#405)). Standalone offenses committed without hostile organizational affiliation are charged under the specific offense (e.g., [303 — Sabotage](#303)) rather than 305.
 
 **Standard of Proof** — *Probable Cause required for charge*
 
@@ -993,6 +1144,13 @@ PC may be established by: absence logs, witness accounts of the individual being
 - If the dereliction was for the benefit of a hostile organization or materially harmed the station, escalate to [411 — Grand Dereliction](#411).
 - Demotion requires command authorization — do not initiate without HoS or Captain approval.
 
+**Examples of Dereliction**
+
+- *Engineering:* Abandoning the station without power during an active emergency, or refusing to respond to repeated critical repair calls.
+- *Medical:* Abandoning critical patients, refusing to staff Medbay during mass casualties, or ignoring a Code Blue without reason.
+- *Security:* Abandoning post during a Red Alert, refusing to respond to confirmed hostile activity, or leaving the brig unattended with active prisoners.
+- *Command:* A department head who repeatedly ignores their department’s needs, refuses all administrative duties, or abandons the station during an emergency.
+
 </details>
 
 <details>
@@ -1113,6 +1271,47 @@ PC may be established by: victim testimony, corroborating witness accounts, medi
 - Handle with the utmost discretion. Victim statements should be recorded by the Warden or HoS, and details must not be shared beyond those directly processing the charge.
 - If the conduct did not constitute a non-consensual act but was still unwelcome and sexual in nature, charge [218 — Sexual Harassment](#218) instead.
 - Document the severity of the act in the case report — it informs the appropriate sentence within the 15 min / 40k range, and may warrant [M02 — Elevated Sentencing](#m02) in severe cases.
+
+</details>
+
+<details>
+<summary><strong>319 — Unauthorized Implantation / Deimplantation: Officer Guidance</strong></summary>
+
+**Elements in Detail**
+
+1. **Implanted, removed, tracked, mindshielded, or otherwise modified** — Performed a procedure involving any internal modification: placing an implant, removing one, installing a tracker, applying mindshield treatment, or equivalent procedures. Covers both adding and removing modifications.
+2. **Without informed consent or lawful authority** — The individual did not agree to the procedure with full knowledge of what was being done, or the individual performing the procedure had no legal authority to do so. Lawful authority includes: CMO authorization for medical implants, Security or Warden authorization for mindshields in lawful confinement, or a direct command order.
+
+**Standard of Proof** — *Probable Cause required for charge*
+
+PC may be established by: medical examination confirming the implant or modification, absence of consent documentation, or victim testimony. The individual performing the procedure must be identified.
+
+**Officer Notes**
+
+- Reversal is required where medically feasible — coordinate with the CMO to confirm whether the procedure can safely be reversed.
+- [213 — Mutilation](#213) covers unauthorized modification broadly at the misdemeanor level; 319 is the felony-level charge specifically for implants, trackers, mindshields, and deimplantation.
+- Unauthorized mindshielding (applying a mindshield without lawful justification) falls under this charge. Lawful justification requires either the individual's consent or a formal security order — not the officer's own judgment alone.
+
+</details>
+
+<details>
+<summary><strong>320 — Gross Medical Malpractice: Officer Guidance</strong></summary>
+
+**Elements in Detail**
+
+1. **Severe medical misconduct** — A medical professional or individual performing medical procedures acted with gross negligence or willful disregard for proper medical practice. The conduct must substantially deviate from accepted standards.
+2. **Resulting in serious harm** — The misconduct directly caused: death, permanent disability, wrongful Borgification, involuntary organ removal, or other major irreversible harm. Harm that is minor or reversible may fall under [213 — Mutilation](#213) or [208 — Gross Criminal Negligence](#208) instead.
+3. **Through willful disregard or gross negligence** — The individual knew or should have known their actions posed an unacceptable risk of serious harm and proceeded regardless. Simple mistakes without negligence do not qualify.
+
+**Standard of Proof** — *Probable Cause required for charge*
+
+PC may be established by: medical records documenting the procedure and resulting harm, the CMO's assessment identifying the departure from standard practice, or evidence of deliberate disregard (ignoring warnings, proceeding without authorization, performing procedures outside scope).
+
+**Officer Notes**
+
+- Coordinate with the CMO before charging — medical standards are specialized and the CMO's assessment of whether conduct was grossly negligent is authoritative.
+- Demotion is mandatory upon conviction — the individual loses medical access and duties.
+- Wrongful Borgification — converting a person to a Borg without consent or lawful authorization — falls under this charge. If the Borgification was intentional and irreversible, escalate to [401 — Capital Murder](#401).
 
 </details>
 
