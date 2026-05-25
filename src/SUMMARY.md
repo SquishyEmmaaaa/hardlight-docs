@@ -14,6 +14,8 @@
 ---
 
 - [Space Law](space-law/crimes-and-punishments.md)
+- [Security Authority](space-law/security-authority.md)
+- [Legal Standards](space-law/legal-standards.md)
 - [Escalation Policy](space-law/escalation.md)
 - [Legal Procedures](space-law/legal-procedures.md)
 
