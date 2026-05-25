@@ -9,15 +9,15 @@
 - [Server Rules](rules/server-rules.md)
 - [Conduct & Expectations](rules/conduct.md)
 
-# Space Law
+# Security Operations
 
 ---
 
 - [Space Law](space-law/crimes-and-punishments.md)
 - [Security Authority](space-law/security-authority.md)
 - [Legal Standards](space-law/legal-standards.md)
-- [Escalation Policy](space-law/escalation.md)
-- [Legal Procedures](space-law/legal-procedures.md)
+- [Alert Statuses](space-law/alert-statuses.md)
+- [Security Policies & Guidebook](space-law/security-guidebook.md)
 - [Changelog](space-law/changelog.md)
 
 # Policies

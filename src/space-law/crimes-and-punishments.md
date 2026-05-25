@@ -7,6 +7,8 @@
 > - Station-wide emergencies are to take priority over enforcing Space Law
 > - Roleplay fun is to take priority over all others
 
+**Jump to:** [Modifiers](#modifiers) · [Infractions](#infractions) · [Minor Crimes](#minor-crimes) · [Misdemeanors](#misdemeanors) · [Felonies](#felonies) · [Capital Crimes](#capital-crimes)
+
 ---
 
 ## Modifiers
@@ -31,6 +33,20 @@ Modifiers adjust sentences up or down. Multiple modifiers may apply to a single 
 
 ---
 
+### Sentencing Reference
+
+The following table defines the baseline sentencing range for each crime tier, to provide context when applying **M02 — Elevated Sentencing** (which elevates a charge by one tier).
+
+| Tier | Typical Sentence |
+|:-----|:----------------|
+| **Infraction** | Fine only: 10–25k speso; no brig unless fine is evaded |
+| **Minor Crime** | Up to 10 min brig; fine optional |
+| **Misdemeanor** | 5–15 min brig; 20–45k speso fine |
+| **Felony** | 10–20 min brig; 35–85k speso fine; possible demotion |
+| **Capital Crime** | Permanent Confinement, Execution, or Force Borgification |
+
+---
+
 ## Infractions
 
 All of these crimes tend to be monetary punishments.
@@ -49,7 +65,7 @@ All of these crimes tend to be monetary punishments.
 **Elements in Detail**
 
 1. **Defaced** — Applied markings, paint, stickers, or otherwise cosmetically altered property. The key distinction from [103 — Minor Vandalism](#103) is that defacement here causes no permanent structural damage and can be cleaned or reversed.
-2. **Station or another's property** — Covers station walls, floors, furniture, and items owned by or assigned to another crew member. One's own property cannot be defaced under this charge.
+2. **Station or another's property** — Covers station walls, floors, furniture, and items owned by or assigned to any other crew member or individual aboard the station.
 
 **Standard of Proof** — *Probable Cause required for charge*
 
@@ -72,7 +88,7 @@ PC may be established by direct observation, camera footage, or credible witness
 
 **Standard of Proof** — *Probable Cause required for charge*
 
-PC is typically established by discovery of the substance during a lawful search. Reasonable suspicion (enabling a search) can come from witness reports, behavioral signs of drug use, or a credible tip.
+PC is typically established by discovery of the substance during a lawful search. On Green Alert, a search requires a valid warrant (supported by PC) or the individual's consent. On Blue or Red Alert, a search of someone exhibiting suspicious behavior does not require a warrant, but PC for the charge still must be established by what is found.
 
 **Officer Notes**
 
@@ -153,7 +169,7 @@ These crimes tend to be just brig time.
 | <a id="103"></a>103 | **Minor Vandalism** | • Damaged, destroyed, or permanently defaced<br>• Non-critical furniture, a vendor, or personal property | ↑ Lesser: [003 — Superficial Vandalism](#003)<br>↓ Greater: [203 — Major Vandalism](#203) | Work duty to repair damage; brig time varies by damage |
 | 104 | **Vigilantism** | • Performed the responsibilities or duties of the security department<br>• Without approval or due cause | — | 5 min brig |
 | <a id="106"></a>106 | **Illegal Distribution** | • Possessed illegal or dangerous drugs or equipment<br>• In quantities beyond reasonable personal use | ↑ Lesser: [006 — Drug Possession](#006) | 5 min brig and 40k fine |
-| 107 | **Disturbing the Peace** | • Knowingly organized or led a movement<br>• That disrupted the normal operations of a department | — | Warning to disperse; up to 10 min brig depending on cooperation |
+| 107 | **Disturbing the Peace** | • Engaged in conduct that a reasonable person would find disruptive, threatening, or harmful to public order<br>• Including: excessive noise, public fighting, abusive language likely to incite confrontation, or organized activity that disrupts normal operations | ↓ Greater: [207 — Rioting](#207) | Warning; 5–10 min brig or 15k speso fine |
 | <a id="108"></a>108 | **Criminal Negligence** | • Failed in their duty to a negligent degree<br>• Caused or risked harm, illness, or negative effects to another<br>• Did not result in death | ↓ Greater: [208 — Gross Criminal Negligence](#208) | 5 min brig |
 | <a id="109"></a>109 | **Trespass** | • Present in an area without admission or access<br>• Or remained after being asked to leave by department staff | ↓ Greater: [209 — Trespass, Inherently Dangerous Areas](#209) | Peacefully leaving: release. Resisting: at least 5 min brig |
 | <a id="110"></a>110 | **Breaking and Entering** | • Used a method of forcible entry to trespass into an area<br>• Includes non-destructive methods (hacking, bypassing access controls) | ↓ Greater: [210 — Breaking and Entering, Inherently Dangerous Areas](#210) | Brig time varies from 5 min based on damage caused |
@@ -161,8 +177,8 @@ These crimes tend to be just brig time.
 | <a id="112"></a>112 | **Fine Evasion** | • Purposefully avoided, refused, or was unable to pay a legal fine<br>• After reasonable notice and opportunity to pay | — | 15 sec per 1k speso owed (e.g., 30k fine = 7.5 min brig) |
 | <a id="116"></a>116 | **Harassment** | • Repeatedly targeted, followed, contacted, provoked, or otherwise engaged with another individual<br>• After being clearly told to stop<br>• Creating a hostile, intimidating, or disruptive environment | ↓ Greater: [217 — Intimidation](#217) | 5–10 min brig, 15k speso fine |
 | 117 | **Brandishing** | • Brandished a weapon<br>• Without lawful purpose or due cause | — | 5 min brig or a person search |
-| <a id="118"></a>118 | **Failure to Identify** | • Refused to provide name, job, or identification<br>• During lawful questioning or detainment by security | — | Warning; 5 min brig if refusal continues |
-| <a id="119"></a>119 | **Obstruction of Justice** | • Interfered with a lawful arrest, investigation, evidence collection, prisoner transport, or security operation | ↓ Greater: [214 — Evidence Tampering](#214) | 5–10 min brig, fine optional |
+| <a id="118"></a>118 | **Failure to Identify** | • Refused to provide name, job, or identification<br>• During lawful questioning or detainment by security<br>• Or failed to wear a valid ID card while on Blue Alert or higher | — | Warning; 5 min brig if refusal continues |
+| <a id="119"></a>119 | **Resist, Delay, or Obstruct Justice** | • Resisted, delayed, or obstructed a lawful arrest, investigation, evidence collection, prisoner transport, or security operation<br>• Including: physically impeding officers, providing false information, "slipping" officers, failing to comply with reasonable requests to vacate or create space near officers or a crime scene, or any conduct that distracts or hinders Security response | ↓ Greater: [214 — Evidence Tampering](#214) | 5–10 min brig, fine optional |
 
 <details>
 <summary><strong>101 — Assault: Officer Guidance</strong></summary>
@@ -240,7 +256,7 @@ PC may be established by: direct observation of the individual performing securi
 **Officer Notes**
 
 - Citizens restraining an active attacker in defense of themselves or others is not vigilantism — apply [M03 — Self Defense](#m03).
-- Crew who assist security during a Red Alert under officer direction are not vigilantes, provided they reported in and followed orders.
+- Crew who assist security during a Red Alert under officer direction are not vigilantes, provided they reported in and followed orders. Crew who assist but **fail to follow Security commands** are acting outside their authorization and may be charged under this offense.
 - If the individual caused harm during their unauthorized "security" activity, layer appropriate charges (e.g., [101 — Assault](#101)).
 
 </details>
@@ -270,18 +286,19 @@ PC may be established by: discovery during a lawful search, evidence of sale or 
 
 **Elements in Detail**
 
-1. **Knowingly organized or led a movement** — The individual must have actively coordinated, incited, or led others. A single person acting alone disrupting a department is better charged under another applicable offense.
-2. **Disrupted normal operations of a department** — The collective activity meaningfully interfered with a department's ability to function: blockades, sit-ins, organized noise, work stoppages, etc.
+1. **Conduct a reasonable person would find disruptive** — Evaluate the behavior objectively, not based on the sensitivities of any one complainant. The conduct must meaningfully disrupt public order, not merely annoy.
+2. **Covered conduct** — Includes but is not limited to: sustained loud noise in shared spaces, public physical altercations, abusive or threatening language directed at others or likely to provoke confrontation, and organized collective activity (sit-ins, blockades, work stoppages) that disrupts department function.
 
 **Standard of Proof** — *Probable Cause required for charge*
 
-PC may be established by: direct observation of the organizing behavior, witness testimony identifying the individual as a leader or organizer, or documented evidence of coordination.
+PC may be established by: direct observation of the disruptive behavior, witness reports, or documented pattern of conduct that persisted after a warning.
 
 **Officer Notes**
 
-- Always issue a dispersal warning first and allow reasonable time to comply. Cooperation reduces or eliminates brig time.
-- If the group commits property damage or felony-level offenses during the disruption, consider [207 — Rioting](#207).
-- If the disruption is organized by multiple leaders, each organizer can be charged individually.
+- Always issue a verbal warning first and allow reasonable time to comply. Compliance can reduce or eliminate brig time. Escalate to brig or fine only if the conduct continues after warning.
+- Use your judgment on brig vs. fine: if the disruption was brief and ended on warning, a fine is often appropriate. Persistent or physically threatening behavior warrants brig time.
+- If the individual is part of a larger group committing property damage or felony offenses, charge [207 — Rioting](#207) instead of or in addition to this charge.
+- For disruption via communications, consider [011 — Disruptive Comms](#011).
 
 </details>
 
@@ -432,27 +449,28 @@ PC may be established by: victim reports documenting the pattern of contact, com
 
 **Elements in Detail**
 
-1. **Refused to provide name, job, or identification** — Actively declined, provided false information, or remained non-responsive when asked for identifying information. An individual who provides a name but lacks their ID card is not automatically in violation if they are otherwise cooperative.
+1. **Refused to provide name, job, or identification** — Actively declined, provided false information, or remained non-responsive when asked for identifying information. An individual who provides a name but lacks their ID card is not automatically in violation if they are otherwise cooperative, **unless the station is on Blue Alert or higher**, in which case the wearing of a visible ID card is mandatory.
 2. **During lawful questioning or detainment** — The questioning must be lawful: an officer must have reasonable suspicion or greater to initiate questioning. Demands for ID without any articulable basis are not lawful.
+3. **Failure to wear ID on Blue Alert or higher** — During Blue or Red Alert status, all crew are required to wear a valid ID card visibly. An individual who cannot produce or refuses to wear their ID card during heightened alert may be charged under this offense regardless of whether they verbally provide a name.
 
 **Standard of Proof** — *Probable Cause required for charge*
 
-PC is established by: the individual's direct refusal, confirmed provision of false information, or documented non-response during a lawful stop.
+PC is established by: the individual's direct refusal, confirmed provision of false information, documented non-response during a lawful stop, or confirmed absence of ID card during Blue or Red Alert.
 
 **Officer Notes**
 
 - Always issue a verbal warning before charging. Most cooperative crew will comply when asked. Reserve the 5-minute brig for those who actively and persistently refuse.
-- An individual who provides a name but cannot produce their ID card is not automatically in violation — give them an opportunity to retrieve it.
+- An individual who provides a name but cannot produce their ID card on Green Alert is not automatically in violation — give them an opportunity to retrieve it. On Blue or Red Alert, enforce the visible ID requirement.
 - Providing false identification supports a charge of [314 — Impersonation](#314) in addition to this.
 
 </details>
 
 <details>
-<summary><strong>119 — Obstruction of Justice: Officer Guidance</strong></summary>
+<summary><strong>119 — Resist, Delay, or Obstruct Justice: Officer Guidance</strong></summary>
 
 **Elements in Detail**
 
-1. **Interfered with a lawful security operation** — Actively impeded: physically blocking an arrest, providing false information during an investigation, disrupting evidence collection, interfering with prisoner transport, or otherwise obstructing an officer performing their duties. Passive non-cooperation (silence, refusing to answer questions) generally does not constitute obstruction — active interference is required.
+1. **Resisted, delayed, or obstructed a lawful security operation** — Any conduct — active or passive — that impedes, delays, or frustrates the timely and effective performance of lawful security duties. This includes: physically blocking an arrest or transport, providing false information during an investigation, disrupting evidence collection, "slipping" officers or otherwise using actions that impair officer mobility, failing to move or create space when an officer reasonably directs bystanders to clear an area or crime scene, and any other conduct that distracts or interferes with Security response.
 
 **Standard of Proof** — *Probable Cause required for charge*
 
@@ -460,9 +478,10 @@ PC may be established by: direct observation of the interference, officer testim
 
 **Officer Notes**
 
-- Distinguish from [118 — Failure to Identify](#118): silence or non-cooperation is 118; actively interfering — blocking, misleading, physically impeding — is 119.
+- **Silence and non-cooperation are not illegal.** An individual has the right to remain silent. Refusing to answer questions is not obstruction. For refusal to provide identifying information, see [118 — Failure to Identify](#118) — that charge requires an active refusal when lawfully asked, not mere silence.
+- **Minor non-compliance warrants a warning first.** If a bystander is slow to move or isn't immediately responsive, issue a clear verbal direction before treating their inaction as obstruction. Reserve the brig for knowing, active interference.
+- **Active interference** — physically blocking, slipping officers, providing false leads, failing to vacate after a clear lawful order — warrants the charge.
 - If the interference involved destroying, hiding, or tampering with evidence, charge [214 — Evidence Tampering](#214) instead of or in addition to 119.
-- Bystanders who inadvertently obstruct by being in the way are not committing this offense — intent to interfere, or knowing interference, is required.
 
 </details>
 
@@ -477,12 +496,12 @@ These crimes tend to include both fines and brig time.
 | <a id="201"></a>201 | **Aggravated Assault** | • Took physical action against a person<br>• With intent to grievously harm<br>• But without intent to kill | ↑ Lesser: [101 — Assault](#101)<br>↓ Greater: [301 — Murder](#301) | 5 min brig, flat 25k fine |
 | <a id="202"></a>202 | **Theft** | • Stole equipment or items from a workplace<br>• Or items of extraordinary value from a person's person | ↑ Lesser: [102 — Pickpocketing](#102)<br>↓ Greater: [302 — Larceny](#302) | Return of items, 5 min brig, 20k fine |
 | <a id="203"></a>203 | **Vandalism, Major** | • Destroyed or damaged non-critical furniture, vendors, or personal property<br>• In a manner that cannot be repaired | ↑ Lesser: [103 — Minor Vandalism](#103) | Replacement of item(s), monetary recompensation, 5 min brig |
-| <a id="204"></a>204 | **Conspiracy** | • Knowingly planned, assisted, or coordinated with another individual<br>• In preparation for committing a misdemeanor or greater offense | ↓ Greater: [304 — Grand Conspiracy](#304) | 5–10 min brig (discretionary) |
+| <a id="204"></a>204 | **Conspiracy** | • Knowingly planned or conspired to commit a misdemeanor or greater offense<br>• With intent to carry that offense out | ↓ Greater: [304 — Grand Conspiracy](#304) | 5–10 min brig (discretionary) |
 | <a id="205"></a>205 | **Hostile Agent** | • Knowingly supported, aided, or associated with a hostile organization<br>• In a non-combat capacity: recruitment, messaging, smuggling, harboring, or financing<br>• (see [405 — Enemy of the Government](#405)) | ↓ Greater: [305 — Hostile Activity](#305) | 5 min brig, 25k fine |
 | 206 | **Possession, Contraband Equipment** | • Possessed Class 2 contraband equipment<br>• Without a valid C2 Permit | — | 5 min brig, 25k fine, confiscation |
 | <a id="207"></a>207 | **Rioting** | • Acted as a member of a group<br>• That collectively committed major vandalism, sabotage, or other felony crimes | ↓ Greater: [307 — Inciting a Riot](#307) | HoS or Warden's judgement |
 | <a id="208"></a>208 | **Gross Criminal Negligence** | • Negligent in their duty<br>• Caused harm to multiple individuals or a department<br>• Or directly led to serious injury requiring emergency medical treatment | ↑ Lesser: [108 — Criminal Negligence](#108) | Baseline 10 min brig (varies by severity), possible demotion, 30k speso |
-| <a id="209"></a>209 | **Trespass, Inherently Dangerous Areas** | • Trespassed in an area that may lead to injury of oneself or others<br>• Includes No-Fire Zones | ↑ Lesser: [109 — Trespass](#109)<br>↓ Greater: [309 — Trespass, High Security Areas](#309) | 15 min brig, 25k speso fine; resistors may receive additional time |
+| <a id="209"></a>209 | **Trespass, Inherently Dangerous Areas** | • Trespassed in an area that may lead to injury of oneself or others<br>• Includes No-Fly Zones (NFZs) | ↑ Lesser: [109 — Trespass](#109)<br>↓ Greater: [309 — Trespass, High Security Areas](#309) | 15 min brig, 25k speso fine |
 | <a id="210"></a>210 | **Breaking and Entering, Inherently Dangerous Areas** | • Used forcible entry to trespass<br>• Into an area that may lead to injury of oneself or others | ↑ Lesser: [110 — Breaking and Entering](#110)<br>↓ Greater: [310 — Breaking and Entering, High Security Areas](#310) | 10 min brig (potentially increased by damage), 30k speso fine |
 | 211 | **Insubordination** | • Knowingly disobeyed a lawful order<br>• From a superior or security officer<br>• Without good reason | — | 5 min brig, possible demotion, 25k fine |
 | 212 | **Fraud** | • Misrepresented their intentions<br>• With the purpose of gaining property or money from another individual | — | 10 min brig, return of property or money, 45k fine |
@@ -490,10 +509,11 @@ These crimes tend to include both fines and brig time.
 | <a id="214"></a>214 | **Evidence Tampering** | • Destroyed, concealed, altered, planted, or stole evidence<br>• Related to an active or reasonably anticipated investigation | ↑ Lesser: [119 — Obstruction of Justice](#119) | 10 min brig, 30k fine |
 | <a id="215"></a>215 | **False Imprisonment** | • Unlawfully arrested, detained, confined, or held a person<br>• Includes holding an individual beyond their lawful sentence<br>• Without legal authority to do so | — | 5 min brig, 20k fine |
 | <a id="216"></a>216 | **False Report** | • Knowingly submitted a false criminal report, false witness statement, or false emergency call | — | 5–10 min brig, 25k fine |
-| 217 | **Intimidation** | • Threatened to take violent action<br>• Against a specific person | — | 5 min brig, 15k fine (increased to 35k if means to follow up are found on their person) |
-| <a id="218"></a>218 | **Sexual Harassment** | • Engaged in unwelcome conduct of a sexual nature<br>• Including physical touching, verbal comments, or non-verbal gestures<br>• That violated dignity or created a hostile or offensive environment | ↓ Greater: [318 — Sexual Assault](#318) | 5 min brig, 10k fine |
+| 217 | **Intimidation** | • Made a credible threat of violent action against a specific person<br>• That a reasonable person in the victim’s position would believe could realistically be carried out<br>• Victim must agree to press charges | — | 5 min brig, 15k fine (increased to 35k if means to follow up are found on their person) |
+| <a id="218"></a>218 | **Sexual Harassment** | • Engaged in unwelcome conduct of a sexual nature (physical touching, verbal comments, or non-verbal gestures)<br>• That either: violated the victim’s dignity, OR created a hostile, intimidating, or offensive environment | ↓ Greater: [318 — Sexual Assault](#318) | 5 min brig, 10k fine |
 | <a id="219"></a>219 | **Unlawful Search** | • Conducted a search of a person, vessel, or department<br>• Without lawful cause, consent, a valid warrant, or emergency justification | ↓ Greater: [220 — Abuse of Authority](#220) | 5 min brig, possible demotion |
-| <a id="220"></a>220 | **Abuse of Authority** | • Used a position of command, security, medical, or legal authority<br>• To harass, extort, falsely arrest, or unlawfully punish another individual | ↑ Lesser: [219 — Unlawful Search](#219) | 10 min brig, demotion, possible job ban (IC) |
+| <a id="220"></a>220 | **Abuse of Authority** | • Used a position of command, security, medical, or legal authority<br>• To harass, extort, falsely arrest, or unlawfully punish another individual | ↑ Lesser: [219 — Unlawful Search](#219) | 10 min brig, demotion |
+| <a id="221"></a>221 | **Unlawful Butchering of Fauna** | • Killed or caused the death of a non-sentient creature aboard the station<br>• That posed no threat to the individual or others at the time<br>• Including station pets, common friendly station fauna, and similar non-hostile creatures | — | 5–10 min brig, 20k speso fine; restitution where applicable |
 
 <details>
 <summary><strong>201 — Aggravated Assault: Officer Guidance</strong></summary>
@@ -561,8 +581,8 @@ PC may be established by: the destroyed item and evidence linking the individual
 
 **Elements in Detail**
 
-1. **Knowingly worked with another person** — Active coordination, communication, or assistance — not merely being present. Ignorance of the criminal nature of an action is a valid defense if credible.
-2. **With the intent to commit an illegal action** — The planned or executed action must be a crime. Planning alone, with evidence of intent, is sufficient — the underlying crime does not need to have been completed.
+1. **Knowingly planned or conspired** — Active planning, preparation, or coordination — not merely knowing about a crime or being present. Conspiracy can be committed by an individual acting alone; a co-conspirator is not required. Ignorance of the criminal nature of an action is a valid defense if credible.
+2. **With intent to carry the offense out** — The plan must be directed at an actual crime. Planning alone, with evidence of intent, is sufficient — the underlying crime does not need to have been completed.
 
 **Standard of Proof** — *Probable Cause required for charge*
 
@@ -570,9 +590,8 @@ PC may be established by: communications or messages showing coordination, evide
 
 **Officer Notes**
 
-- The co-conspirators must be identified — charging one person for conspiracy requires establishing who they conspired with.
 - This charge applies to conspiracy toward a Misdemeanor offense. For conspiracy toward a Felony or Capital crime, charge [304 — Grand Conspiracy](#304) instead.
-- Charging [M13 — Cooperation with Security](#m13) can reduce sentences for individuals who assist in identifying co-conspirators.
+- Cooperation with Security ([M13](#m13)) may reduce the sentence.
 
 </details>
 
@@ -663,7 +682,7 @@ PC may be established by: medical records establishing the severity of harm, ide
 **Elements in Detail**
 
 1. **Trespassed** — Present without authorization or remained after being asked to leave.
-2. **In an inherently dangerous area** — Areas where unauthorized presence creates a meaningful risk of injury: engineering, atmospherics, high-voltage areas, chemical labs, and No-Fire Zones (NFZs). These are more serious than ordinary trespass because the risk of harm is inherent to the location.
+2. **In an inherently dangerous area** — Areas where unauthorized presence creates a meaningful risk of injury: engineering, atmospherics, high-voltage areas, chemical labs, and No-Fly Zones (NFZs). These are more serious than ordinary trespass because the risk of harm is inherent to the location.
 
 **Standard of Proof** — *Probable Cause required for charge*
 
@@ -672,7 +691,6 @@ PC may be established by: direct observation, access logs, or confirmation from 
 **Officer Notes**
 
 - NFZ violations carry additional time beyond the base 15 minutes — add half the time spent in the NFZ to the sentence.
-- Resistors may receive additional brig time at officer discretion. Document resistance in the report.
 - If the individual forced entry into the area, add [210 — Breaking and Entering, Inherently Dangerous Areas](#210).
 
 </details>
@@ -785,8 +803,9 @@ PC may be established by: victim testimony, physical evidence of restraint or co
 
 **Elements in Detail**
 
-1. **Threatened to take violent action** — Made a statement, gesture, or demonstration communicating intent to cause physical harm.
+1. **Credible threat of violent action** — Made a statement, gesture, or demonstration communicating intent to cause physical harm that a reasonable person in the victim’s position would genuinely believe could be carried out. Hyperbole, venting, or obvious expressions of frustration (e.g., “I’m going to melt you” said in a clearly non-serious context) do not satisfy this element — the threat must be specific and credibly actionable.
 2. **Against a specific person** — The threat was directed at an identifiable individual, not a vague or general expression of frustration.
+3. **Victim agreement to press charges** — This charge requires the victim’s cooperation. Officers may not pursue this charge unilaterally if the victim declines to press charges.
 
 **Standard of Proof** — *Probable Cause required for charge*
 
@@ -794,9 +813,10 @@ PC may be established by: the victim's testimony, radio or communications logs c
 
 **Officer Notes**
 
-- General expressions of anger ("I hate this ship") are not threats. The statement must communicate a specific intent to cause harm to a person.
+- The credibility test is objective: would a reasonable person in the victim's position believe the threat could realistically be carried out? Emotional outbursts, hyperbolic insults, and obvious venting do not qualify.
 - If the individual also possessed weapons or tools capable of carrying out the threat, increase the fine to 35k speso.
 - If the threat is accompanied by physical action, charge [101 — Assault](#101) or [201 — Aggravated Assault](#201) in addition.
+- Do not pursue this charge without a cooperative victim — document that the victim agreed to press charges in your report.
 
 </details>
 
@@ -806,7 +826,7 @@ PC may be established by: the victim's testimony, radio or communications logs c
 **Elements in Detail**
 
 1. **Unwelcome conduct of a sexual nature** — The behavior was sexual in nature and was not invited, consented to, or welcomed by the recipient. This includes physical touching, verbal comments, and non-verbal gestures.
-2. **Violated dignity or created a hostile environment** — The conduct had the effect of humiliating the target, making them uncomfortable in their work or social environment, or was objectively offensive.
+2. **That either violated the victim’s dignity OR created a hostile environment** — Only one of these two outcomes needs to be satisfied: the conduct humiliated or degraded the victim (dignity violation), OR the conduct created a hostile, intimidating, or offensive environment. Both prongs are not required.
 
 **Standard of Proof** — *Probable Cause required for charge*
 
@@ -895,7 +915,26 @@ PC may be established by: victim testimony detailing the specific abuse, documen
 
 - Security officers who conduct unlawful searches, make pretext arrests, or hold prisoners beyond their sentence may be charged under this offense. [219 — Unlawful Search](#219) covers the specific act; 220 covers the broader misuse.
 - Demotion is required upon conviction — the individual loses the position that enabled the offense.
-- An IC job ban is discretionary and reserved for egregious or repeated abuse. It requires Captain or HoS authorization and documentation.
+
+</details>
+
+<details>
+<summary><strong>221 — Unlawful Butchering of Fauna: Officer Guidance</strong></summary>
+
+**Elements in Detail**
+
+1. **Killed or caused the death of a non-sentient creature** — The target must be confirmed as non-sentient. Station fauna, pets, scurrets, and common non-hostile creatures are covered. Borgs and mechs are not animals and fall under vandalism or sabotage.
+2. **That posed no threat at the time** — If the creature was actively attacking or posing a clear, immediate threat to the individual or others, lethal defense may be justified. The charge requires that the killing was unprovoked.
+
+**Standard of Proof** — *Probable Cause required for charge*
+
+PC may be established by: direct observation, witness accounts, or camera footage establishing the killing was unprovoked.
+
+**Officer Notes**
+
+- This charge does not apply to authorized activities such as cooking or approved research use.
+- For the killing of a sentient being — regardless of species — see [301 — Murder](#301).
+- If the creature was a crew member’s registered pet, consider layering [103 — Minor Vandalism](#103) or [203 — Major Vandalism](#203) for destruction of personal property.
 
 </details>
 
@@ -907,10 +946,10 @@ Crimes entail brig time and hefty fines.
 
 | Code | Crime | Elements | Related Offenses | Punishment |
 |:----:|:------|:---------|:-----------------|:-----------|
-| <a id="301"></a>301 | **Murder** | • Purposefully killed another person | ↑ Lesser: [201 — Aggravated Assault](#201), [308 — Manslaughter](#308) *(unintentional)*<br>↓ Greater: [401 — Capital Murder](#401) | 10–20 min brig, 40–60k speso fine |
+| <a id="301"></a>301 | **Murder** | • Intentionally killed another person with malice | ↑ Lesser: [201 — Aggravated Assault](#201), [308 — Manslaughter](#308) *(unintentional)*<br>↓ Greater: [401 — Capital Murder](#401) | 10–20 min brig, 40–60k speso fine |
 | <a id="302"></a>302 | **Larceny** | • Stole rare, expensive (>50k speso value), or restricted equipment<br>• From a secure area or directly from a person | ↑ Lesser: [202 — Theft](#202) | 10 min brig, return of items, 40k speso fine |
 | <a id="303"></a>303 | **Sabotage** | • Destroyed station assets or resources critical to normal or emergency station procedures<br>• Or caused sections of the station to become uninhabitable | ↓ Greater: [403 — Grand Sabotage](#403) | 10 min brig, 40k speso fine |
-| <a id="304"></a>304 | **Grand Conspiracy** | • Knowingly worked with another person<br>• With the intent of committing a Felony or Capital crime | ↑ Lesser: [204 — Conspiracy](#204) | Same punishment as the associated crime |
+| <a id="304"></a>304 | **Grand Conspiracy** | • Knowingly planned or conspired to commit a Felony or Capital crime<br>• With intent to carry that offense out | ↑ Lesser: [204 — Conspiracy](#204) | Same punishment as the associated crime |
 | <a id="305"></a>305 | **Hostile Activity** | • Committed a direct hostile act against the station, crew, or Colonial Command<br>• In coordination with or on behalf of a hostile organization | ↑ Lesser: [205 — Hostile Agent](#205)<br>↓ Greater: [405 — Enemy of the Government](#405) | 10 min brig, 20k speso fine |
 | 306 | **Possession, Illegal Inherently Dangerous Equipment** | • Possessed restricted or illegal equipment<br>• With a primary purpose of causing harm or large-scale destruction<br>• C3 equipment is included | — | Item removal, 10 min brig, 35k speso fine, mandatory shuttle search |
 | <a id="307"></a>307 | **Inciting a Riot** | • Performed actions intended to cause large-scale unrest<br>• Up to and including facilitating or causing rioting | ↑ Lesser: [207 — Rioting](#207) | 10 min brig, 45–60k speso fine |
@@ -991,7 +1030,7 @@ PC may be established by: the damage itself linked to the individual via access 
 
 **Elements in Detail**
 
-1. **Knowingly worked with another person** — Active coordination toward a shared criminal goal. Mere acquaintance with a criminal is not conspiracy.
+1. **Knowingly planned or conspired** — Active planning, preparation, or coordination toward a criminal goal. Conspiracy can be committed by an individual acting alone; a co-conspirator is not required. Mere acquaintance with a criminal is not conspiracy.
 2. **Toward a Felony or Capital crime** — The planned crime must be at Felony level (300s) or Capital level (400s). Conspiracy toward misdemeanors or lower is [204 — Conspiracy](#204).
 
 **Standard of Proof** — *Probable Cause required for charge*
@@ -1001,8 +1040,8 @@ PC may be established by: communications establishing coordination, evidence of 
 **Officer Notes**
 
 - The punishment mirrors the associated crime — ensure the underlying felony or capital charge is clearly documented.
-- Both parties can be charged with Grand Conspiracy alongside the underlying crime if both participated.
-- Cooperation with security ([M13](#m13)) that results in identifying co-conspirators may reduce the sentence.
+- All co-conspirators, if any, can be charged with Grand Conspiracy alongside the underlying crime.
+- Cooperation with security ([M13](#m13)) may reduce the sentence.
 
 </details>
 

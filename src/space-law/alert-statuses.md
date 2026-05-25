@@ -1,0 +1,104 @@
+# Alert Statuses
+
+> Alert statuses are declared station-wide by the **Captain** or **Head of Security** and indicate the current threat level to the sector. Each status changes what Security and crew are authorized to do. Changes take effect immediately upon announcement.
+
+---
+
+## Quick Reference
+
+| Status | Threat Level | Search Authority | C3 Equipment | Crew Obligation |
+|:------:|:-------------|:----------------|:-------------|:----------------|
+| **Green** | None known | Warrant required | Prohibited | Normal operations |
+| **Blue** | Confirmed threat | Officer's discretion | Prohibited | Remain vigilant; report suspicious activity |
+| **Red** | Immediate threat | Officer's discretion | Authorized (Security only) | Cooperate with Security; follow authorities |
+
+---
+
+## Green Alert
+
+**Normal operations.** No known threat to the sector.
+
+- Searches require a valid warrant (backed by Probable Cause) or the individual's consent
+- C3 equipment is prohibited for all non-Security personnel
+- Officers should keep weapons holstered unless actively responding to an incident
+- Standard arrest, sentencing, and search procedures apply
+- No special crew obligations beyond normal conduct
+
+---
+
+## Blue Alert
+
+> *"A confirmed threat to the sector has been identified. All crew should remain vigilant and report any suspicious activity to Security."*
+
+Blue Alert indicates that a credible, confirmed threat is present or that circumstances strongly suggest one is imminent.
+
+### Criteria for Declaring Blue Alert
+
+Blue Alert should be declared when **any** of the following apply:
+
+- Credible intelligence of a threat is received (intercepted communications, confirmed hostile agent reports, a credible tip)
+- A hostile individual or group is confirmed aboard or in the sector
+- A high-security area has been breached without explanation
+- Unusual or coordinated suspicious activity suggests an organized threat
+- The Captain or HoS determines that elevated readiness is necessary for crew safety
+
+The decision to declare Blue Alert rests with the **Captain** or **Head of Security**. Either may declare it unilaterally; the HoS should notify the Captain promptly.
+
+### What Changes on Blue Alert
+
+**Search Authority**
+Officers may conduct searches at their discretion without a warrant when there is an articulable reason for the stop. Blue Alert does not authorize arbitrary or mass searches — the officer must still be able to state a reason. The standard is *reasonable basis*, not *mere presence*.
+
+**Identification**
+All crew are required to wear their ID card visibly. Failure to produce or wear a valid ID card during Blue Alert is a chargeable offense under [118 — Failure to Identify](crimes-and-punishments.md#118).
+
+**CEDT Activation**
+CEDTs may be activated at HoS or Captain authorization during Blue Alert. A CEDT firing on an individual during Blue Alert **authorizes a search at the responding officer's discretion** — no warrant is required. See [CEDT — Contraband Entry Denial Turrets](security-guidebook.md#cedt--contraband-entry-denial-turrets).
+
+**Equipment**
+Officers may visibly carry and display weapons. Officers may carry one step above their standard-issue load at HoS discretion.
+
+---
+
+## Red Alert
+
+> *"There is an immediate threat to the sector. Security should prepare to use lethal force if necessary. All crew should cooperate to ensure mutual safety and are advised to follow any present authorities."*
+
+Red Alert indicates an active, immediate threat that requires maximum readiness and coordinated response.
+
+### Criteria for Declaring Red Alert
+
+Red Alert should be declared when **any** of the following apply:
+
+- Armed hostile engagement is active or imminent on the station
+- A confirmed armed intruder, terrorist, or hostile force is present
+- A capital-level crime is actively in progress with the subject at large
+- A station-threatening emergency is underway (e.g., active sabotage of critical systems)
+- The threat cannot be contained under Blue Alert conditions
+
+Red Alert **should not be treated as a permanent state.** It must be lifted as soon as the immediate threat is neutralized or contained. Leaving the station at Red Alert without active justification is a misuse of authority.
+
+### What Changes on Red Alert
+
+All Blue Alert changes remain in effect, plus:
+
+**C3 Equipment**
+Security personnel may carry and deploy Class 3 (C3) equipment during Red Alert. All C3 equipment must be returned to the armory when Red Alert is lifted.
+
+**Lethal Force**
+Security is authorized to use lethal force when the situation warrants it. Lethal force is authorized — not mandated. Officers must still exercise judgment proportional to the threat. See [Security Authority](security-authority.md) for the full Use of Force framework.
+
+**Crew Assistance**
+Crew may be directed by Security to assist in responding to the threat. Crew who assist must operate under direct officer supervision and follow all Security commands — unauthorized independent action remains chargeable under [104 — Vigilantism](crimes-and-punishments.md#104). See [M05 — Griseo Maris](crimes-and-punishments.md#modifiers).
+
+---
+
+## Lifting an Alert
+
+Only the **Captain** or **Head of Security** may downgrade alert status. When an alert is lifted:
+
+- C3 equipment must be secured and returned to the armory immediately
+- Search authority returns to the standard Green Alert warrant requirement
+- Any crew deputized under Red Alert are stood down
+- Crew ID card requirement remains in effect until Green Alert is formally declared and announced
+- Officers should resume standard holstered weapon posture

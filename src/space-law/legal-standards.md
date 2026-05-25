@@ -31,7 +31,15 @@ Reasonable suspicion is the **lowest threshold** for action. It allows security 
 - Observed suspicious behavior (nervous demeanor, concealing items, fleeing without cause)
 - Security or command observations
 
-> **Example:** A crew member is spotted loitering outside the armory at an unusual hour with no stated reason. This creates reasonable suspicion to approach, identify, and question them — but not to arrest or search them without further evidence.
+#### Totality of the Circumstances
+
+No single factor above needs to be sufficient on its own. Reasonable suspicion is assessed by evaluating **all observable facts and circumstances together**, as they would appear to a **reasonable, trained security officer in the same situation**. Individual actions that seem innocent in isolation may — viewed collectively — establish reasonable suspicion that criminal activity **has occurred, is occurring, or is about to occur**.
+
+The standard is objective: *would a reasonable, trained officer confronted with the same combination of facts conclude that criminal activity was afoot?* If yes, the threshold is met. An officer's personal hunch or subjective unease, untethered from articulable facts, is not sufficient.
+
+When writing your report, document each contributing factor individually and specifically. The strength of a reasonable suspicion determination is directly proportional to how clearly its component facts can be articulated.
+
+> **Example:** After receiving a heightened alert from an intercepted communication suggesting a possible threat to command, a Security officer observes a Scientist making repeated circuits around the bridge, loitering near the bridge access doors, and visibly carrying a handheld crew scanner. None of these behaviors are criminal on their own — a scientist may have a legitimate reason for any one of them in isolation. Viewed in totality, however — the timing of the alert, the specific location being circled, the repetitive movement pattern, and the possession of a scanning device outside any research context — a reasonable officer in the same situation would have grounds to believe criminal activity has occurred, is occurring, or is about to occur. This justifies approaching, requesting identification, and questioning the individual. It does **not** yet authorize arrest or a full search without further evidence.
 
 ---
 
