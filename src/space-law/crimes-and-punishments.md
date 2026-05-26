@@ -45,6 +45,21 @@ The following table defines the baseline sentencing range for each crime tier, t
 | **Felony** | 10–20 min brig; 35–85k speso fine; possible demotion |
 | **Capital Crime** | Permanent Confinement, Execution, or Force Borgification |
 
+### Lesser Included Offenses (No Stacking)
+
+When two charges describe the same criminal act at different severities, only the greatest applicable charge should be applied.
+
+| Crime Type | Severity Chain (Greatest to Lesser Included) |
+|:-----------|:---------------------------------------------|
+| Homicide / Assault | [401 — Capital Murder](#401) > [301 — Murder](#301) > [201 — Aggravated Assault](#201) > [101 — Assault](#101) |
+| Sabotage / Property Destruction | [403 — Grand Sabotage](#403) > [303 — Sabotage](#303) > [203 — Vandalism, Major](#203) |
+| Breaking and Entering (Forcible Entry) | [310 — Breaking and Entering, High Security Areas](#310) > [210 — Breaking and Entering, Inherently Dangerous Areas](#210) > [110 — Breaking and Entering](#110) |
+| Trespass (Non-Forcible Entry) | [309 — Trespass, High Security Areas](#309) > [209 — Trespass, Inherently Dangerous Areas](#209) > [109 — Trespass](#109) |
+| Theft | [302 — Larceny](#302) > [202 — Theft](#202) > [102 — Pickpocketing](#102) |
+| Sexual Offenses | [318 — Sexual Assault](#318) > [218 — Sexual Harassment](#218) |
+
+**Stacking is not permitted.** Security may not charge both a greater offense and its lesser included offense for the same underlying act. The greatest offense should be charged, but may be reduced to a lesser included offense at officer discretion.
+
 ---
 
 ## Infractions
@@ -169,10 +184,10 @@ These crimes tend to be just brig time.
 | <a id="103"></a>103 | **Minor Vandalism** | • Damaged, destroyed, or permanently defaced<br>• Non-critical furniture, a vendor, or personal property | ↑ Lesser: [003 — Superficial Vandalism](#003)<br>↓ Greater: [203 — Major Vandalism](#203) | Work duty to repair damage; brig time varies by damage |
 | 104 | **Vigilantism** | • Performed the responsibilities or duties of the security department<br>• Without approval or due cause | — | 5 min brig |
 | <a id="106"></a>106 | **Illegal Distribution** | • Possessed illegal or dangerous drugs or equipment<br>• In quantities beyond reasonable personal use | ↑ Lesser: [006 — Drug Possession](#006) | 5 min brig and 40k fine |
-| 107 | **Disturbing the Peace** | • Engaged in conduct that a reasonable person would find disruptive, threatening, or harmful to public order<br>• Including: excessive noise, public fighting, abusive language likely to incite confrontation, or organized activity that disrupts normal operations | ↓ Greater: [207 — Rioting](#207) | Warning; 5–10 min brig or 15k speso fine |
+| 107 | **Disturbing the Peace** | • Engaged in conduct that a reasonable person would find clearly disruptive, threatening, or harmful to public order<br>• Including: excessive noise, public fighting, or abusive language that is directed, repeated, and likely to provoke immediate confrontation (mere insults alone are insufficient)<br>• Or organized activity that materially disrupts normal operations | ↓ Greater: [207 — Rioting](#207) | Warning first; then 5–10 min brig or 15k speso fine |
 | <a id="108"></a>108 | **Criminal Negligence** | • Failed in their duty to a negligent degree<br>• Caused or risked harm, illness, or negative effects to another<br>• Did not result in death | ↓ Greater: [208 — Gross Criminal Negligence](#208) | 5 min brig |
-| <a id="109"></a>109 | **Trespass** | • Present in an area without admission or access<br>• Or remained after being asked to leave by department staff | ↓ Greater: [209 — Trespass, Inherently Dangerous Areas](#209) | Peacefully leaving: release. Resisting: at least 5 min brig |
-| <a id="110"></a>110 | **Breaking and Entering** | • Used a method of forcible entry to trespass into an area<br>• Includes non-destructive methods (hacking, bypassing access controls) | ↓ Greater: [210 — Breaking and Entering, Inherently Dangerous Areas](#210) | Brig time varies from 5 min based on damage caused |
+| <a id="109"></a>109 | **Trespass** | • Present in an area without admission or access<br>• Or remained after being asked to leave by department staff | ↓ Greater: [209 — Trespass, Inherently Dangerous Areas](#209) | Peacefully leaving: release. Otherwise: 5 min brig, or time equal to time spent trespassing if greater than 5 min |
+| <a id="110"></a>110 | **Breaking and Entering** | • Used a method of forcible entry to trespass into an area<br>• Includes non-destructive methods (hacking, bypassing access controls)<br>• Distinct from simple trespass and charged as the primary entry offense when forcible entry is proven | ↓ Greater: [210 — Breaking and Entering, Inherently Dangerous Areas](#210) | Baseline 7.5 min brig (50% above 109), increased further by damage caused |
 | <a id="111"></a>111 | **Discriminatory Language** | • Used language targeting an individual<br>• That demeans, generalizes, or de-personifies them | — | 10 min brig |
 | <a id="112"></a>112 | **Fine Evasion** | • Purposefully avoided, refused, or was unable to pay a legal fine<br>• After reasonable notice and opportunity to pay | — | 15 sec per 1k speso owed (e.g., 30k fine = 7.5 min brig) |
 | <a id="116"></a>116 | **Harassment** | • Repeatedly targeted, followed, contacted, provoked, or otherwise engaged with another individual<br>• After being clearly told to stop<br>• Creating a hostile, intimidating, or disruptive environment | ↓ Greater: [217 — Intimidation](#217) | 5–10 min brig, 15k speso fine |
@@ -287,7 +302,7 @@ PC may be established by: discovery during a lawful search, evidence of sale or 
 **Elements in Detail**
 
 1. **Conduct a reasonable person would find disruptive** — Evaluate the behavior objectively, not based on the sensitivities of any one complainant. The conduct must meaningfully disrupt public order, not merely annoy.
-2. **Covered conduct** — Includes but is not limited to: sustained loud noise in shared spaces, public physical altercations, abusive or threatening language directed at others or likely to provoke confrontation, and organized collective activity (sit-ins, blockades, work stoppages) that disrupts department function.
+2. **Covered conduct** — Includes but is not limited to: sustained loud noise in shared spaces, public physical altercations, abusive or threatening language that is directed and repeated and likely to provoke immediate confrontation, and organized collective activity (sit-ins, blockades, work stoppages) that materially disrupts department function.
 
 **Standard of Proof** — *Probable Cause required for charge*
 
@@ -296,6 +311,7 @@ PC may be established by: direct observation of the disruptive behavior, witness
 **Officer Notes**
 
 - Always issue a verbal warning first and allow reasonable time to comply. Compliance can reduce or eliminate brig time. Escalate to brig or fine only if the conduct continues after warning.
+- A single insult, sarcasm, or rude remark toward an officer is not enough on its own. The behavior must rise to an objectively disruptive level under the elements above.
 - Use your judgment on brig vs. fine: if the disruption was brief and ended on warning, a fine is often appropriate. Persistent or physically threatening behavior warrants brig time.
 - If the individual is part of a larger group committing property damage or felony offenses, charge [207 — Rioting](#207) instead of or in addition to this charge.
 - For disruption via communications, consider [011 — Disruptive Comms](#011).
@@ -338,8 +354,9 @@ PC may be established by: direct observation in the restricted area, an access l
 **Officer Notes**
 
 - Leaving peacefully when approached results in release with no charge — reserve brig time for those who resist or refuse.
+- Baseline trespass sentence is 5 minutes. If the individual remained in unauthorized space longer than 5 minutes, brig time may match the trespass duration.
 - If the area trespassed is inherently dangerous (engineering, atmospherics, hazardous zones), charge [209 — Trespass, Inherently Dangerous Areas](#209).
-- If the individual forced their way in rather than walking through an open door, charge [110 — Breaking and Entering](#110) instead of or in addition to this.
+- If the individual forced their way in rather than walking through an open door, charge [110 — Breaking and Entering](#110) as the primary entry charge rather than stacking [109 — Trespass](#109) for the same entry act.
 
 </details>
 
@@ -358,6 +375,7 @@ PC may be established by: direct observation of the entry method, signs of force
 **Officer Notes**
 
 - Non-destructive entry (hacking a door panel) still qualifies — the method of entry does not need to cause damage.
+- [110 — Breaking and Entering](#110) is distinct from [109 — Trespass](#109). For the same forcible entry act, use 110 as the primary charge; do not stack 109 as a lesser included offense.
 - If the destination was a high security area (armory, command offices, vault), charge [310 — Breaking and Entering, High Security Areas](#310).
 - If the destination was inherently dangerous (engineering, atmos), charge [210 — Breaking and Entering, Inherently Dangerous Areas](#210).
 
@@ -493,7 +511,7 @@ These crimes tend to include both fines and brig time.
 
 | Code | Crime | Elements | Related Offenses | Punishment |
 |:----:|:------|:---------|:-----------------|:-----------|
-| <a id="201"></a>201 | **Aggravated Assault** | • Took physical action against a person<br>• With intent to grievously harm<br>• But without intent to kill | ↑ Lesser: [101 — Assault](#101)<br>↓ Greater: [301 — Murder](#301) | 5 min brig, flat 25k fine |
+| <a id="201"></a>201 | **Aggravated Assault** | • Took physical action against a person<br>• With intent to grievously harm<br>• But without intent to kill | ↑ Lesser: [101 — Assault](#101)<br>↓ Greater: [301 — Murder](#301) | 10 min brig, flat 25k fine |
 | <a id="202"></a>202 | **Theft** | • Stole equipment or items from a workplace<br>• Or items of extraordinary value from a person's person | ↑ Lesser: [102 — Pickpocketing](#102)<br>↓ Greater: [302 — Larceny](#302) | Return of items, 5 min brig, 20k fine |
 | <a id="203"></a>203 | **Vandalism, Major** | • Destroyed or damaged non-critical furniture, vendors, or personal property<br>• In a manner that cannot be repaired | ↑ Lesser: [103 — Minor Vandalism](#103) | Replacement of item(s), monetary recompensation, 5 min brig |
 | <a id="204"></a>204 | **Conspiracy** | • Knowingly planned or conspired to commit a misdemeanor or greater offense<br>• With intent to carry that offense out | ↓ Greater: [304 — Grand Conspiracy](#304) | 5–10 min brig (discretionary) |
