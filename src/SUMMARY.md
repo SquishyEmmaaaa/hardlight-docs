@@ -25,6 +25,10 @@
 
 ---
 
-- [Admin Policy](policies/admin-policy.md)
+- [Admin Code of Conduct](policies/admin-policy.md)
+	- [Admin Expectations](policies/admin-expectations.md)
+	- [Rule Enforcement](policies/rule-enforcement.md)
+	- [Punitive Action](policies/punitive-action.md)
+	- [Precedent Information](policies/precedent-information.md)
 - [Banning Policy](policies/banning-policy.md)
 - [Appeal Process](policies/appeal-process.md)

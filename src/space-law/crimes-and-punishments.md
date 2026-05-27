@@ -7,6 +7,11 @@
 > - Station-wide emergencies are to take priority over enforcing Space Law
 > - Roleplay fun is to take priority over all others
 
+<div class="rp-first-alert">
+<p class="rp-first-alert-title">❗ Read RP-First Sentencing First</p>
+<p>Read <a href="security-overview.md#rp-first-sentencing">RP-First Sentencing</a> in Security Overview before applying charges on this page. Space Law is meant to support roleplay, reward cooperation, and avoid punitive maximization.</p>
+</div>
+
 **Jump to:** [Modifiers](#modifiers) · [Infractions](#infractions) · [Minor Crimes](#minor-crimes) · [Misdemeanors](#misdemeanors) · [Felonies](#felonies) · [Capital Crimes](#capital-crimes)
 
 ---
@@ -54,11 +59,13 @@ When two charges describe the same criminal act at different severities, only th
 | Homicide / Assault | [401 — Capital Murder](#401) > [301 — Murder](#301) > [201 — Aggravated Assault](#201) > [101 — Assault](#101) |
 | Sabotage / Property Destruction | [403 — Grand Sabotage](#403) > [303 — Sabotage](#303) > [203 — Vandalism, Major](#203) |
 | Breaking and Entering (Forcible Entry) | [310 — Breaking and Entering, High Security Areas](#310) > [210 — Breaking and Entering, Inherently Dangerous Areas](#210) > [110 — Breaking and Entering](#110) |
-| Trespass (Non-Forcible Entry) | [309 — Trespass, High Security Areas](#309) > [209 — Trespass, Inherently Dangerous Areas](#209) > [109 — Trespass](#109) |
+| Trespass (Unlawful Presence) | [309 — Trespass, High Security Areas](#309) > [209 — Trespass, Inherently Dangerous Areas](#209) > [109 — Trespass](#109) |
 | Theft | [302 — Larceny](#302) > [202 — Theft](#202) > [102 — Pickpocketing](#102) |
 | Sexual Offenses | [318 — Sexual Assault](#318) > [218 — Sexual Harassment](#218) |
 
 **Stacking is not permitted.** Security may not charge both a greater offense and its lesser included offense for the same underlying act. The greatest offense should be charged, but may be reduced to a lesser included offense at officer discretion.
+
+**Trespass and Breaking and Entering are legally distinct offenses.** [109/209/309](#109) govern unlawful presence in a restricted area; [110/210/310](#110) govern the act of forcible entry. When both the unlawful entry and the unlawful presence are established, both charges may apply.
 
 ---
 
@@ -190,8 +197,8 @@ These crimes tend to be just brig time.
 | <a id="110"></a>110 | **Breaking and Entering** | • Used a method of forcible entry to trespass into an area<br>• Includes non-destructive methods (hacking, bypassing access controls)<br>• Distinct from simple trespass and charged as the primary entry offense when forcible entry is proven | ↓ Greater: [210 — Breaking and Entering, Inherently Dangerous Areas](#210) | Baseline 7.5 min brig (50% above 109), increased further by damage caused |
 | <a id="111"></a>111 | **Discriminatory Language** | • Used language targeting an individual<br>• That demeans, generalizes, or de-personifies them | — | 10 min brig |
 | <a id="112"></a>112 | **Fine Evasion** | • Purposefully avoided, refused, or was unable to pay a legal fine<br>• After reasonable notice and opportunity to pay | — | 15 sec per 1k speso owed (e.g., 30k fine = 7.5 min brig) |
-| <a id="116"></a>116 | **Harassment** | • Repeatedly targeted, followed, contacted, provoked, or otherwise engaged with another individual<br>• After being clearly told to stop<br>• Creating a hostile, intimidating, or disruptive environment | ↓ Greater: [217 — Intimidation](#217) | 5–10 min brig, 15k speso fine |
-| 117 | **Brandishing** | • Brandished a weapon<br>• Without lawful purpose or due cause | — | 5 min brig or a person search |
+| <a id="116"></a>116 | **Brandishing** | • Brandished a weapon<br>• Without lawful purpose or due cause | ↓ Greater: [217 — Intimidation](#217) | 5 min brig or a person search |
+| <a id="117"></a>117 | **Harassment** | • Repeatedly targeted, followed, contacted, provoked, or otherwise engaged with another individual<br>• After being clearly told to stop<br>• Creating a hostile, intimidating, or disruptive environment | ↓ Greater: [217 — Intimidation](#217) | 5–10 min brig, 15k speso fine |
 | <a id="118"></a>118 | **Failure to Identify** | • Refused to provide name, job, or identification<br>• During lawful questioning or detainment by security<br>• Or failed to wear a valid ID card while on Blue Alert or higher | — | Warning; 5 min brig if refusal continues |
 | <a id="119"></a>119 | **Resist, Delay, or Obstruct Justice** | • Resisted, delayed, or obstructed a lawful arrest, investigation, evidence collection, prisoner transport, or security operation<br>• Including: physically impeding officers, providing false information, "slipping" officers, failing to comply with reasonable requests to vacate or create space near officers or a crime scene, or any conduct that distracts or hinders Security response | ↓ Greater: [214 — Evidence Tampering](#214) | 5–10 min brig, fine optional |
 
@@ -356,7 +363,7 @@ PC may be established by: direct observation in the restricted area, an access l
 - Leaving peacefully when approached results in release with no charge — reserve brig time for those who resist or refuse.
 - Baseline trespass sentence is 5 minutes. If the individual remained in unauthorized space longer than 5 minutes, brig time may match the trespass duration.
 - If the area trespassed is inherently dangerous (engineering, atmospherics, hazardous zones), charge [209 — Trespass, Inherently Dangerous Areas](#209).
-- If the individual forced their way in rather than walking through an open door, charge [110 — Breaking and Entering](#110) as the primary entry charge rather than stacking [109 — Trespass](#109) for the same entry act.
+- If the individual forced their way in rather than walking through an open door, [110 — Breaking and Entering](#110) may be charged in addition to [109 — Trespass](#109). [110 — Breaking and Entering](#110) covers the act of unlawful entry; [109 — Trespass](#109) covers the unlawful presence in the restricted area.
 
 </details>
 
@@ -375,7 +382,7 @@ PC may be established by: direct observation of the entry method, signs of force
 **Officer Notes**
 
 - Non-destructive entry (hacking a door panel) still qualifies — the method of entry does not need to cause damage.
-- [110 — Breaking and Entering](#110) is distinct from [109 — Trespass](#109). For the same forcible entry act, use 110 as the primary charge; do not stack 109 as a lesser included offense.
+- [110 — Breaking and Entering](#110) is distinct from [109 — Trespass](#109). [110 — Breaking and Entering](#110) punishes the act of forcible entry; [109 — Trespass](#109) punishes remaining in a restricted area without authorization. If both are proven, both may be charged.
 - If the destination was a high security area (armory, command offices, vault), charge [310 — Breaking and Entering, High Security Areas](#310).
 - If the destination was inherently dangerous (engineering, atmos), charge [210 — Breaking and Entering, Inherently Dangerous Areas](#210).
 
@@ -422,7 +429,7 @@ PC is established by: the fine record showing issuance and non-payment, and conf
 </details>
 
 <details>
-<summary><strong>117 — Brandishing: Officer Guidance</strong></summary>
+<summary><strong>116 — Brandishing: Officer Guidance</strong></summary>
 
 **Elements in Detail**
 
@@ -437,12 +444,12 @@ PC may be established by: direct observation, camera footage, or credible witnes
 
 - A person search is an appropriate alternative to brig time — brandishing often uncovers additional contraband charges.
 - Brandishing during an active confrontation may escalate to [217 — Intimidation](#217) if accompanied by a verbal threat.
-- If the weapon is illegal to possess, add the appropriate possession charge alongside 117.
+- If the weapon is illegal to possess, add the appropriate possession charge alongside 116.
 
 </details>
 
 <details>
-<summary><strong>116 — Harassment: Officer Guidance</strong></summary>
+<summary><strong>117 — Harassment: Officer Guidance</strong></summary>
 
 **Elements in Detail**
 
@@ -456,7 +463,7 @@ PC may be established by: victim reports documenting the pattern of contact, com
 
 **Officer Notes**
 
-- This charge is distinct from [217 — Intimidation](#217) (which requires an explicit threat of violence) and [218 — Sexual Harassment](#218) (which covers unwelcome sexual conduct). 116 requires neither a threat nor a sexual element.
+- This charge is distinct from [217 — Intimidation](#217) (which requires an explicit threat of violence) and [218 — Sexual Harassment](#218) (which covers unwelcome sexual conduct). 117 requires neither a threat nor a sexual element.
 - A single incident without prior pattern generally warrants a warning rather than a charge. Document each incident in the report.
 - If the individual continues after being charged, [M02 — Elevated Sentencing](#m02) applies to repeat behavior.
 
@@ -518,7 +525,7 @@ These crimes tend to include both fines and brig time.
 | <a id="205"></a>205 | **Hostile Agent** | • Knowingly supported, aided, or associated with a hostile organization<br>• In a non-combat capacity: recruitment, messaging, smuggling, harboring, or financing<br>• (see [405 — Enemy of the Government](#405)) | ↓ Greater: [305 — Hostile Activity](#305) | 5 min brig, 25k fine |
 | 206 | **Possession, Contraband Equipment** | • Possessed Class 2 contraband equipment<br>• Without a valid C2 Permit | — | 5 min brig, 25k fine, confiscation |
 | <a id="207"></a>207 | **Rioting** | • Acted as a member of a group<br>• That collectively committed major vandalism, sabotage, or other felony crimes | ↓ Greater: [307 — Inciting a Riot](#307) | HoS or Warden's judgement |
-| <a id="208"></a>208 | **Gross Criminal Negligence** | • Negligent in their duty<br>• Caused harm to multiple individuals or a department<br>• Or directly led to serious injury requiring emergency medical treatment | ↑ Lesser: [108 — Criminal Negligence](#108) | Baseline 10 min brig (varies by severity), possible demotion, 30k speso |
+| <a id="208"></a>208 | **Gross Criminal Negligence** | • Negligent in their duty<br>• Caused harm to multiple individuals or a department<br>• Or directly led to serious injury requiring emergency medical treatment | ↑ Lesser: [108 — Criminal Negligence](#108) | Baseline 10 min brig (varies by severity), possible demotion, 30k speso fine |
 | <a id="209"></a>209 | **Trespass, Inherently Dangerous Areas** | • Trespassed in an area that may lead to injury of oneself or others<br>• Includes No-Fly Zones (NFZs) | ↑ Lesser: [109 — Trespass](#109)<br>↓ Greater: [309 — Trespass, High Security Areas](#309) | 15 min brig, 25k speso fine |
 | <a id="210"></a>210 | **Breaking and Entering, Inherently Dangerous Areas** | • Used forcible entry to trespass<br>• Into an area that may lead to injury of oneself or others | ↑ Lesser: [110 — Breaking and Entering](#110)<br>↓ Greater: [310 — Breaking and Entering, High Security Areas](#310) | 10 min brig (potentially increased by damage), 30k speso fine |
 | 211 | **Insubordination** | • Knowingly disobeyed a lawful order<br>• From a superior or security officer<br>• Without good reason | — | 5 min brig, possible demotion, 25k fine |

@@ -4,6 +4,26 @@ Changes to Space Law are logged here in reverse chronological order.
 
 ---
 
+## May 27, 2026 (revision 4)
+
+### Security Overview — RP-First Sentencing Added
+
+A new **RP-First Sentencing** section was added to Security Overview to make the intended philosophy explicit: **Space Law exists to create better roleplay, not to "win" against another player.** Crimes & Punishments now begins with a prominent notice directing readers to review that guidance before applying charges.
+
+The new section clarifies that:
+- Maximum punishment is not the default when multiple lawful outcomes are available
+- Officers, Wardens, and Command should prefer outcomes that preserve scenes, reward cooperation, and keep roleplay moving
+- [M13 — Cooperation with Security](crimes-and-punishments.md#m13) should be applied generously when a suspect is cooperative and helps move the scene forward
+- Work duty, cleanup, restitution, community service, negotiated reductions, and other RP-forward alternatives are encouraged where the facts and station safety permit
+- Searches and escalations must be based on in-character facts and lawful cause, not metaknowledge or out-of-character suspicion
+
+Concrete examples were added, including:
+- Letting an entertaining in-character legal argument partially work when the result is still plausible under Space Law
+- Allowing harmless, low-stakes gimmick items to remain when keeping them improves the scene and does not create a meaningful security risk
+- Offering reduced time, work duty, or negotiated charge reductions to cooperative prisoners instead of defaulting to the harshest available punishment
+
+---
+
 ## May 25, 2026 (revision 3)
 
 ### Legal Standards — Reasonable Suspicion Example Updated
