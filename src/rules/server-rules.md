@@ -1,6 +1,8 @@
 # Server Rules
 
-> **WARNING: You must be 18 or older to play. Users under 18 will be banned immediately.**
+```admonish warning
+**WARNING: You must be 18 or older to play. Users under 18 will be banned immediately.**
+```
 
 Hard Light is an english speaking 18+ medium roleplay server.
 
@@ -12,7 +14,9 @@ Implementation and interpretation of the rules is up to the sole discretion of t
 
 If you have any questions about these rules, please use the Admin help menu by hitting F1 in-game, or clicking the "AHelp" button in the lobby, or alternatively, ask for assistance on the discord.
 
-> **Hardlit enforcement:** Rules marked with 🔷 are enforced at all times. Other rules are only enforced upon recieving a user report.
+```admonish note
+**Hardlit enforcement:** Rules marked with 🔷 are enforced at all times. Other rules are only enforced upon recieving a user report.
+```
 
 Each section contains its own list of rules.
 

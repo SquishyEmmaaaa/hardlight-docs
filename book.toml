@@ -12,8 +12,16 @@ git-repository-url = "https://github.com/okdamsam/hardlight-docs"
 edit-url-template = "https://github.com/okdamsam/hardlight-docs/edit/main/{path}"
 curly-quotes = true
 no-section-label = true
-additional-css = ["theme/hardlight.css"]
+additional-css = ["theme/hardlight.css", "theme/pagetoc.css", "./mdbook-admonish.css"]
+additional-js = ["theme/pagetoc.js"]
+
 
 [output.html.fold]
 enable = true
 level = 0
+
+[preprocessor]
+
+[preprocessor.admonish]
+command = "mdbook-admonish"
+assets_version = "3.1.0" # do not edit: managed by `mdbook-admonish install`

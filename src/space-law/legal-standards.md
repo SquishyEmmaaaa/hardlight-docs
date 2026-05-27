@@ -39,7 +39,9 @@ The standard is objective: *would a reasonable, trained officer confronted with 
 
 When writing your report, document each contributing factor individually and specifically. The strength of a reasonable suspicion determination is directly proportional to how clearly its component facts can be articulated.
 
-> **Example:** After receiving a heightened alert from an intercepted communication suggesting a possible threat to command, a Security officer observes a Scientist making repeated circuits around the bridge, loitering near the bridge access doors, and visibly carrying a handheld crew scanner. None of these behaviors are criminal on their own — a scientist may have a legitimate reason for any one of them in isolation. Viewed in totality, however — the timing of the alert, the specific location being circled, the repetitive movement pattern, and the possession of a scanning device outside any research context — a reasonable officer in the same situation would have grounds to believe criminal activity has occurred, is occurring, or is about to occur. This justifies approaching, requesting identification, and questioning the individual. It does **not** yet authorize arrest or a full search without further evidence.
+```admonish example
+After receiving a heightened alert from an intercepted communication suggesting a possible threat to command, a Security officer observes a Scientist making repeated circuits around the bridge, loitering near the bridge access doors, and visibly carrying a handheld crew scanner. None of these behaviors are criminal on their own — a scientist may have a legitimate reason for any one of them in isolation. Viewed in totality, however — the timing of the alert, the specific location being circled, the repetitive movement pattern, and the possession of a scanning device outside any research context — a reasonable officer in the same situation would have grounds to believe criminal activity has occurred, is occurring, or is about to occur. This justifies approaching, requesting identification, and questioning the individual. It does **not** yet authorize arrest or a full search without further evidence.
+```
 
 ---
 
@@ -68,7 +70,9 @@ Probable cause is the **threshold for arrest and warrants**. It requires more th
 
 Probable cause does **not** require absolute certainty, but must be supported by facts an officer can clearly articulate — not a hunch.
 
-> **Example (continuing the Reasonable Suspicion scenario above):** During lawful investigatory detention, the officer questions the Research Assistant seen circling the bridge. The individual then flees. The officer gives a clear order to stop, and the individual continues fleeing. This establishes probable cause for [119 — Resist, Delay, or Obstruct Justice](crimes-and-punishments.md#119). Security uses a disabler to stop the individual, applies restraints, and conducts a search incident to arrest. During that lawful search, Security finds an access breaker and a syndicate uplink. Security has now lawfully located and arrested a syndicate operative before they could cause harm.
+```admonish example
+During lawful investigatory detention, the officer questions the Research Assistant seen circling the bridge. The individual then flees. The officer gives a clear order to stop, and the individual continues fleeing. This establishes probable cause for [119 — Resist, Delay, or Obstruct Justice](crimes-and-punishments.md#119). Security uses a disabler to stop the individual, applies restraints, and conducts a search incident to arrest. During that lawful search, Security finds an access breaker and a syndicate uplink. Security has now lawfully located and arrested a syndicate operative before they could cause harm.
+```
 
 ---
 
@@ -94,7 +98,9 @@ For criminal proceedings, Security must establish guilt by a **preponderance of 
 - **Contradictory or unreliable witness testimony** should be weighed against other available evidence.
 - The accused does **not** have to prove their innocence — Security must prove guilt.
 
-> **Example:** No camera footage exists, but three independent witnesses report seeing the same individual attack a crew member unprovoked. The preponderance of evidence supports a charge of [101 — Assault](crimes-and-punishments.md#101).
+```admonish example
+No camera footage exists, but three independent witnesses report seeing the same individual attack a crew member unprovoked. The preponderance of evidence supports a charge of [101 — Assault](crimes-and-punishments.md#101).
+```
 
 ---
 
@@ -114,7 +120,11 @@ For criminal proceedings, Security must establish guilt by a **preponderance of 
 
 Every crime in [Space Law](crimes-and-punishments.md) is defined by **elements** — discrete conditions that must each be satisfied for a charge to hold. Security must be able to articulate how the evidence satisfies **each element** of the charge.
 
-> **Example — Minor Vandalism (103):** The elements are (1) damaged, destroyed, or permanently defaced, and (2) non-critical furniture, vendor, or personal property. An officer must be able to point to evidence showing both: what was damaged, and that it qualifies as non-critical property. Damage to an APC would satisfy element 1 but not element 2 — that is Sabotage instead.
+In instances where OR is used, such as [Trespass](crimes-and-punishments.html#109), "Present in an area without admission or access" .. "**Or** remained after being asked to leave" - the element that must be satisfied is either or.
+
+```admonish example
+The elements are (1) damaged, destroyed, or permanently defaced, and (2) non-critical furniture, vendor, or personal property. An officer must be able to point to evidence showing both: what was damaged, and that it qualifies as non-critical property. Damage to an APC would satisfy element 1 but not element 2 — that is Sabotage instead.
+```
 
 If any element cannot be established by a preponderance of evidence, the charge cannot stand. In those cases, consider whether a lesser offense better fits the available evidence.
 

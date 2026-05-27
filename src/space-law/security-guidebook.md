@@ -1,6 +1,8 @@
 # Security Policies & Guidebook
 
-> Operational reference for Security department personnel. This page covers roles, terminology, standard procedures, use of force, and enforcement policy. For evidentiary standards (RS, PC, Preponderance), see [Legal Standards](legal-standards.md). For alert status changes, see [Alert Statuses](alert-statuses.md).
+```admonish info
+Operational reference for Security department personnel. This page covers roles, terminology, standard procedures, use of force, and enforcement policy. For evidentiary standards (RS, PC, Preponderance), see [Legal Standards](legal-standards.md). For alert status changes, see [Alert Statuses](alert-statuses.md).
+```
 
 ---
 
@@ -57,7 +59,9 @@ The commanding officer of the Security department. The HoS sets operational prio
 - Responsible for the lawful and professional conduct of all Security staff
 - Reports to the Captain; must consult the Captain before capital-level actions where possible
 
-> **Chain of Command:** Captain → Head of Security → Warden → Detective → Security Officer → Cadet
+```admonish note
+**Chain of Command:** Captain → Head of Security → Warden → Detective → Security Officer → Cadet
+```
 
 ---
 
@@ -113,15 +117,35 @@ Additional observable factors — flight from the officer, continued movement to
 
 ### Arrest Procedure
 
-1. **Identify yourself** — State your rank and intent verbally. Displaying a Security badge or sounding a **whistle** is sufficient identification in the field; a verbal announcement is preferred when time permits.
-2. **Issue a lawful order** — State the charge(s) and command the individual to stop and comply. A single whistle blast is a recognized Security command to halt.
-3. **Attempt to restrain** — Use non-lethal force if the suspect resists. Escalate proportionally; lethal force is only authorized if the suspect poses an active lethal threat.
-4. **Search incident to arrest** — A full search is authorized upon arrest. Confiscate relevant contraband and weapons. See [Searches](#searches) and [219 — Unlawful Search](crimes-and-punishments.md#219) for authorization requirements.
-5. **Transport to brig** — Transport the suspect promptly; do not hold in corridors or public spaces.
-6. **Inform of charges and sentence** — The suspect has the right to know what they are charged with and how long they will be held.
-7. **Hand off to Warden for processing** — The Warden verifies charges, calculates the sentence, and sets the timer.
-8. **File an incident report** — Required for all arrests.
-9. **Release when timer expires** — The Warden must release the suspect when their timer expires unless new charges have been filed and documented.
+1. Halt the citizen using a whistle or hailer to alert them that Security will be speaking with them. If the individual does not halt, Security is permitted to use non-lethal means to subdue them.
+2. Produce the arrest warrant (if on Green Alert) and verbally announce that the individual is being detained. The crime they are being detained for **must be announced**.
+3. If the individual is armed, request that they remove and place all equipment on the ground. Failure to comply permits the officer to use non-lethal force. If the individual is heavily armed, follow [Security Authority](security-authority.md#deadly-force).
+4. Order the individual away from their equipment and to lie on the ground or face a wall. The officer may then approach to cuff them.
+5. Collect the detainee's equipment and transport it with them to Security, handing it to the Warden for processing.
+
+```admonish note
+If the detainee becomes belligerent, wields a long arm, draws a sidearm, or attempts to flee, the arresting officer may employ non-lethal or lethal force under [Security Authority](security-authority.md#deadly-force).
+```
+
+#### Radio Call-Ins
+
+A call for help on radio does **not** immediately mark a suspect for arrest. Proper investigation is still required to establish evidence. Suspects may be brought in for interrogation if they willingly comply; otherwise, an arrest warrant is required.
+
+#### Officer Witness
+
+If a Security Officer or member of Command directly witnesses a crime take place, the need for an arrest warrant is waived.
+
+#### Fleeing to a Ship
+
+If a suspect marked for arrest via a warrant flees onto a private vessel, that vessel becomes subject to immediate search and seizure of all contraband held within. Crew on board are **not** subject to search unless they willingly impede officers or aid the individual being arrested.
+
+#### Red Alert Equipment Protocol
+
+Upon entering Red Alert, the following is authorized by Colonial Command:
+
+1. Security may freely utilize C3 equipment to handle any given threat on station.
+2. Freelancers and crew may brandish and employ C3 equipment strictly to combat the threat. Any freelancer aiding the station **must** report to Security and follow orders from the HoS or Captain.
+3. Upon removal of the threat, an announcement is to be made stating individuals with illegal equipment must stow it off-station. **No one may be pursued for equipment used during a Red Alert.** A 5-minute grace period is given from the time of announcement; after that, remaining contraband may be confiscated as spotted.
 
 ### Sentencing Rules
 
@@ -155,14 +179,8 @@ Permanent Confinement is reserved for capital crimes and requires the following:
 
 ### Use of Force
 
-| Situation | Authorized Force |
-|:----------|:----------------|
-| Verbal non-compliance | Verbal commands, visible presence |
-| Physical resistance | Non-lethal weapons, stun baton |
-| Armed resistance (non-lethal) | Non-lethal force + physical restraint |
-| Armed resistance (lethal) | Lethal force authorized |
-| Active mass casualty threat | All force authorized |
+Use of force authority, limits, and deadly force standards are governed by [Security Authority](security-authority.md). This guidebook section intentionally defers to that page as the authoritative source.
 
-Lethal force should only be used when non-lethal options have failed or are not viable given the threat level. For the full legal framework governing use of force, including the deadly force standard, see [Security Authority](security-authority.md).
-
-> **Reminder:** Security is not judge, jury, and executioner. When in doubt, brig and consult the Captain or HoS.
+```admonish important
+Security is not judge, jury, and executioner. When in doubt, brig and consult the Captain or HoS.
+```

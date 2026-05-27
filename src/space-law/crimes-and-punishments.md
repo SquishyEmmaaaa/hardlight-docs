@@ -1,16 +1,17 @@
 ﻿# Space Law
 
-> **Space law is a tool used to benefit the sector, not a cudgel.**
->
-> - The greater good of the station is to be considered during sentencing
-> - Space Law is designed to protect the station and crew, not to hinder them
-> - Station-wide emergencies are to take priority over enforcing Space Law
-> - Roleplay fun is to take priority over all others
+```admonish note
+**Space law is a tool used to benefit the sector, not a cudgel.**
 
-<div class="rp-first-alert">
-<p class="rp-first-alert-title">❗ Read RP-First Sentencing First</p>
-<p>Read <a href="security-overview.md#rp-first-sentencing">RP-First Sentencing</a> in Security Overview before applying charges on this page. Space Law is meant to support roleplay, reward cooperation, and avoid punitive maximization.</p>
-</div>
+- The greater good of the station is to be considered during sentencing
+- Space Law is designed to protect the station and crew, not to hinder them
+- Station-wide emergencies are to take priority over enforcing Space Law
+- Roleplay fun is to take priority over all others
+```
+
+```admonish important
+Read [RP-First Sentencing](security-overview.md#rp-first-sentencing) in Security Overview before applying charges on this page. Space Law is meant to support roleplay, reward cooperation, and avoid punitive maximization.
+```
 
 **Jump to:** [Modifiers](#modifiers) · [Infractions](#infractions) · [Minor Crimes](#minor-crimes) · [Misdemeanors](#misdemeanors) · [Felonies](#felonies) · [Capital Crimes](#capital-crimes)
 
@@ -1599,35 +1600,6 @@ PC may be established by: medical or psionic confirmation of the mind control, i
 
 </details>
 
----
-
-## Use of Deadly Force
-
-### Non-Enemy of the Government / Petty Criminals
-
-Should lethal force be levied against a target that is **not** an Enemy of the Government, is not set to DNR, or is not set to Execute/Kill on Sight via lawful order — the person is to be **revived and sentenced/deconverted as soon as possible**. Petty criminals met with lethal force are to be given immediate medical attention when captured.
-
-### Lethals Authorised — Post-Combat Treatment/Revival Required
-
-| | | | | |
-|:--|:--|:--|:--|:--|
-| Armed and Dangerous (Lethals) | Multiple Assailants (Armed) | Cultists (Flag, robes, highly armed, etc.) | Possessing Explosives (Grenades, etc.) | Enhanced Individuals (Stimulants, Implants, etc.) |
-| Revolutionaries (Non-Heads) | Armory Trespassers (Armed or otherwise) | Risk of Harming Others (Physically) | Compromised/Dangerous Borg | |
-
-### Lethals Recommended — Posthumous Revival Potentially Required
-
-| | | | |
-|:--|:--|:--|:--|
-| Heavily Armed (Rifles, High-caliber Weapons, etc.) | Holoparasite Users (irrespective of type) | Hostile Exosuits (Any chassis) | Uncontainable Individuals (Shadeskip, Jaunt, etc.) |
-
-### Lethals Authorised — Kill On Sight
-
-| | | | |
-|:--|:--|:--|:--|
-| Nuclear Operatives (including infiltration teams) | Exogenous threats (Xenos, Space bears, etc.) | Revolutionary Heads (Non-standard Revolutionaries) | Abominations (Cluwns) |
-
----
-
 ## Brigging Procedures
 
 When a suspect is brought to brig, contact the Warden/HoS ahead of time and have either ready to process them on arrival.
@@ -1672,19 +1644,25 @@ All warrants must be signed and stamped by the **Warden, Head of Security, or Ca
 
 Refers to a specific individual and the contents of any worn equipment, bags, etc. Issued when a specific person needs to be searched for a potentially missing article or contraband. Does **not** extend to any privately owned vessel.
 
-> **Note:** On Blue or Red Alert, the need for an individual search warrant is waived. This does NOT grant security a blanket excuse to search everyone — only those exhibiting suspicious behavior.
+```admonish note
+On Blue or Red Alert, the need for an individual search warrant is waived. This does NOT grant security a blanket excuse to search everyone — only those exhibiting suspicious behavior.
+```
 
 ### Ship Warrant
 
 Refers to a specific vessel docked to the station or in open space. Covers the entirety of said vessel and any individual on board at the time the warrant is executed.
 
-> **Note:** Only on Red Alert is a Ship Search Warrant waived. This is not a blanket excuse to search every vessel in-sector — searches must still be justifiable to Colonial Command if a reason is requested post-incident.
+```admonish note
+Only on Red Alert is a Ship Search Warrant waived. This is not a blanket excuse to search every vessel in-sector — searches must still be justifiable to Colonial Command if a reason is requested post-incident.
+```
 
 ### Department Warrant
 
 Refers to a specific section of the station under an individual command member's jurisdiction (Science, Cargo, Service, etc.). Covers the entirety of said department and its employees. This warrant type is put under greater scrutiny due to its widespread impact — evidence **must** be established before it is issued.
 
-> **Note:** Only on Red Alert is the need for a department search warrant waived.
+```admonish note
+Only on Red Alert is the need for a department search warrant waived.
+```
 
 ### Arrest Warrant
 
@@ -1692,39 +1670,7 @@ The lawful ordering of detainment of a citizen in Colonial space. Must include: 
 
 Individuals placed under arrest are subject to a **personal** search — not a vessel search. If a vessel search is required, a separate warrant must be drafted.
 
-> **Note:** On Blue and Red Alerts, the need for an arrest warrant is waived. Arrests made under elevated alerts must be supported by reasonable evidence and justifiable to Colonial Command.
-
----
-
-## Arrest Procedure
-
-In the event that a Colonial Citizen is being detained, Security **must** follow these procedures:
-
-1. Halt the citizen using a whistle or hailer to alert them that Security will be speaking with them. If the individual does not halt, Security is permitted to use non-lethal means to subdue them.
-2. Produce the arrest warrant (if on Green Alert) and verbally announce that the individual is being detained. The crime they are being detained for **must be announced**.
-3. If the individual is armed, request that they remove and place all equipment on the ground. Failure to comply permits the officer to use non-lethal force. If the individual is heavily armed, see [Use of Deadly Force](#use-of-deadly-force).
-4. Order the individual away from their equipment and to lie on the ground or face a wall. The officer may then approach to cuff them.
-5. Collect the detainee's equipment and transport it with them to Security, handing it to the Warden for processing.
-
-> **Note:** If the detainee becomes belligerent, wields a long arm, draws a sidearm, or attempts to flee, the arresting officer may employ non-lethal **or** lethal force as outlined in [Use of Deadly Force](#use-of-deadly-force).
-
-### Radio Call-Ins
-
-A call for help on radio does **not** immediately mark a suspect for arrest. Proper investigation is still required to establish evidence. Suspects may be brought in for interrogation if they willingly comply; otherwise, an arrest warrant is required.
-
-### Officer Witness
-
-If a Security Officer or member of Command directly witnesses a crime take place, the need for an arrest warrant is waived.
-
-### Fleeing to a Ship
-
-If a suspect marked for arrest via a warrant flees onto a private vessel, that vessel becomes subject to **immediate search and seizure** of all contraband held within. Crew on board are **not** subject to search unless they willingly impede officers or aid the individual being arrested.
-
-### Red Alert Equipment Protocol
-
-Upon entering Red Alert, the following is authorized by Colonial Command:
-
-1. Security may freely utilize C3 equipment to handle any given threat on station.
-2. Freelancers and crew may brandish and employ C3 equipment strictly to combat the threat. Any freelancer aiding the station **must** report to Security and follow orders from the HoS or Captain.
-3. Upon removal of the threat, an announcement is to be made stating individuals with illegal equipment must stow it off-station. **No one may be pursued for equipment used during a Red Alert.** A 5-minute grace period is given from the time of announcement; after that, remaining contraband may be confiscated as spotted.
+```admonish note
+On Blue and Red Alerts, the need for an arrest warrant is waived. Arrests made under elevated alerts must be supported by reasonable evidence and justifiable to Colonial Command.
+```
 

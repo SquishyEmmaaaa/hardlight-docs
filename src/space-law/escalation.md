@@ -34,4 +34,6 @@ If someone has already attacked you in the same round, you do not need to restar
 
 Antagonists may escalate more freely than regular crew, but **mass murder without narrative purpose is still against the rules**. Having an objective does not grant unlimited license to kill everyone in your path.
 
-> **Important:** When in doubt, de-escalate. Ahelp if you believe someone is breaking escalation rules.
+```admonish important
+When in doubt, de-escalate. Ahelp if you believe someone is breaking escalation rules.
+```

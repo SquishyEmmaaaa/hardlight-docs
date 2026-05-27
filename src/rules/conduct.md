@@ -28,4 +28,6 @@ Security officers must follow [Space Law](../space-law/crimes-and-punishments.md
 
 Antagonists are expected to create fun and interesting gameplay, not simply end rounds as fast as possible. Mass murder with no narrative reason is not acceptable antag play.
 
-> **Warning:** "It's what my character would do" is not a valid defense for breaking conduct rules.
+```admonish warning
+"It's what my character would do" is not a valid defense for breaking conduct rules.
+```

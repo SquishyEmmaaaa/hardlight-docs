@@ -1,27 +1,37 @@
-# Summary
 
+---
 [Home](README.md)
 
-# Rules
 
+# SERVER RULES
 ---
 
 - [Server Rules](rules/server-rules.md)
+	- [Escalation Policy](space-law/escalation.md)
 - [Conduct & Expectations](rules/conduct.md)
 
-# Security Operations
 
+# DEPARTMENTS
 ---
+- [Department Policies](departments.md)
+    - [Command](departments/commmand.md)
+    - [Cargo](departments/cargo.md)
+    - [Science](departments/science.md)
+    - [Service](departments/service.md)
+    - [Medical](departments/medical.md)
+
+
+# Security
 
 - [Security Overview](space-law/security-overview.md)
+    - [Security Policies & Guidebook](space-law/security-guidebook.md)
+    - [Alert Statuses](space-law/alert-statuses.md)
 - [Space Law](space-law/crimes-and-punishments.md)
-- [Security Authority](space-law/security-authority.md)
-- [Legal Standards](space-law/legal-standards.md)
-- [Alert Statuses](space-law/alert-statuses.md)
-- [Security Policies & Guidebook](space-law/security-guidebook.md)
-- [Changelog](space-law/changelog.md)
+    - [Security Authority](space-law/security-authority.md)
+    - [Legal Standards](space-law/legal-standards.md)
 
-# Policies
+
+# ADMINISTRATION
 
 ---
 
@@ -30,5 +40,7 @@
 	- [Rule Enforcement](policies/rule-enforcement.md)
 	- [Punitive Action](policies/punitive-action.md)
 	- [Precedent Information](policies/precedent-information.md)
-- [Banning Policy](policies/banning-policy.md)
-- [Appeal Process](policies/appeal-process.md)
+	- [Admin Characters](policies/admin-characters.md)
+
+---
+[Changelog](changelog.md)

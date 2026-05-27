@@ -1,6 +1,8 @@
 # Alert Statuses
 
-> Alert statuses are declared station-wide by any member of **Command** and indicate the current threat level to the sector. Each status changes what Security and crew are authorized to do. Changes take effect immediately upon announcement.
+```admonish info
+Alert statuses are declared station-wide by any member of **Command** and indicate the current threat level to the sector. Each status changes what Security and crew are authorized to do. Changes take effect immediately upon announcement.
+```
 
 ---
 
@@ -9,8 +11,8 @@
 | Status | Threat Level | Search Authority | C3 Equipment | Crew Obligation |
 |:------:|:-------------|:----------------|:-------------|:----------------|
 | **Green** | None known | Warrant required | Prohibited | Normal operations |
-| **Blue** | Confirmed threat | Officer's discretion | Prohibited | Remain vigilant; report suspicious activity |
-| **Red** | Immediate threat | Officer's discretion | Authorized (Security only) | Cooperate with Security; follow authorities |
+| **Blue** | Confirmed threat | Reasonable Suspicion | Prohibited | Remain vigilant; report suspicious activity |
+| **Red** | Immediate threat | Officer's discretion | Authorized | Cooperate with Security; follow authorities |
 
 ---
 
@@ -28,7 +30,9 @@
 
 ## Blue Alert
 
-> *"A confirmed threat to the sector has been identified. All crew should remain vigilant and report any suspicious activity to Security."*
+```admonish quote
+"A confirmed threat to the sector has been identified. All crew should remain vigilant and report any suspicious activity to Security."
+```
 
 Blue Alert indicates that a credible, confirmed threat is present or that circumstances strongly suggest one is imminent.
 
@@ -47,7 +51,7 @@ Any member of **Command** may declare Blue Alert. The declaring member should no
 ### What Changes on Blue Alert
 
 **Search Authority**
-Officers may conduct searches at their discretion without a warrant when there is an articulable reason for the stop. Blue Alert does not authorize arbitrary or mass searches — the officer must still be able to state a reason. The standard is *reasonable basis*, not *mere presence*.
+Officers may conduct searches at without a warrant when there is an articulable reason for the stop. Blue Alert does not authorize arbitrary or mass searches — the officer must still be able to state a reason. The standard is *reasonable basis*, not *mere presence*.
 
 **Identification**
 All crew are required to wear their ID card visibly. Failure to produce or wear a valid ID card during Blue Alert is a chargeable offense under [118 — Failure to Identify](crimes-and-punishments.md#118).
@@ -62,7 +66,9 @@ Officers may visibly carry and display weapons. Officers may carry one step abov
 
 ## Red Alert
 
-> *"There is an immediate threat to the sector. Security should prepare to use lethal force if necessary. All crew should cooperate to ensure mutual safety and are advised to follow any present authorities."*
+```admonish quote
+"There is an immediate threat to the sector. Security should prepare to use lethal force if necessary. All crew should cooperate to ensure mutual safety and are advised to follow any present authorities."
+```
 
 Red Alert indicates an active, immediate threat that requires maximum readiness and coordinated response.
 
@@ -83,7 +89,7 @@ Red Alert **should not be treated as a permanent state.** It must be lifted as s
 All Blue Alert changes remain in effect, plus:
 
 **C3 Equipment**
-Security personnel may carry and deploy Class 3 (C3) equipment during Red Alert. Crew members and freelancers may carry C3 during Red Alert **only if specifically authorized** by the HoS or Captain — a Red Alert declaration alone is not general authorization. Unauthorized possession of C3 remains chargeable under [306 — Possession, Illegal Inherently Dangerous Equipment](crimes-and-punishments.md#306). All C3 equipment must be returned to the armory when Red Alert is lifted.
+Security personnel may carry and deploy Class 3 (C3) equipment during Red Alert. Crew members and freelancers may carry C3 during Red Alert **only if specifically requested** by the HoS or Captain — a Red Alert declaration alone is not general authorization. Unauthorized possession of C3 remains chargeable under [306 — Possession, Illegal Inherently Dangerous Equipment](crimes-and-punishments.md#306).
 
 **Lethal Force**
 Security is authorized to use lethal force when the situation warrants it. Lethal force is authorized — not mandated. Officers must still exercise judgment proportional to the threat. See [Security Authority](security-authority.md) for the full Use of Force framework.

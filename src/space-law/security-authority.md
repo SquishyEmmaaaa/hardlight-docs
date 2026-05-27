@@ -1,6 +1,8 @@
 # Security Authority
 
-> The authority granted to the Security Department is derived from Colonial Command and is exercised in trust. It is purposeful, limited, and accountable. Security officers act as agents of Colonial Command — not as independent arbiters of law. Authority that exceeds these bounds is itself a violation of Space Law.
+```admonish note
+The authority granted to the Security Department is derived from Colonial Command and is exercised in trust. It is purposeful, limited, and accountable. Security officers act as agents of Colonial Command — not as independent arbiters of law. Authority that exceeds these bounds is itself a violation of Space Law.
+```
 
 ---
 
@@ -27,7 +29,9 @@ When a Security Officer or member of Command **directly and personally witnesses
 
 The witnessing officer must be capable of articulating what they observed in sufficient detail to satisfy probable cause. A credible, firsthand account by a Security Officer or Command member constitutes probable cause without further corroboration.
 
-> *The officer-witness exception does not permit pretext stops. An officer cannot claim to have witnessed a crime they did not, in fact, observe.*
+```admonish important
+The officer-witness exception does not permit pretext stops. An officer cannot claim to have witnessed a crime they did not, in fact, observe.
+```
 
 ### § 2 — Crimes Not Committed in View — Non-Capital Offenses
 
@@ -42,7 +46,9 @@ A valid arrest warrant must contain:
 
 **Hearsay alone is not a valid basis for an arrest warrant.** Evidence must be articulable and, where possible, corroborated.
 
-> **Alert-Level Exception:** On Blue or Red Alert, the warrant requirement for non-capital offenses is waived. Arrests made under elevated alert status must nonetheless be supported by articulable probable cause and shall be documented and justifiable to Colonial Command upon request.
+```admonish note
+**Alert-Level Exception:** On Blue or Red Alert, the warrant requirement for non-capital offenses is waived. Arrests made under elevated alert status must nonetheless be supported by articulable probable cause and shall be documented and justifiable to Colonial Command upon request.
+```
 
 ### § 3 — Crimes Not Committed in View — Capital Offenses or Enemies of the Government
 
@@ -66,7 +72,7 @@ Security Officers acting in the performance of their duties are authorized to:
 
 This authority is **contingent upon the performance of duties**. A Security Officer who carries, brandishes, or uses C3 equipment for personal purposes, while off-duty, or outside the scope of any lawful security function is not protected by this provision and remains subject to applicable contraband charges under Space Law.
 
-**Post-Alert Obligations:** Upon the conclusion of a Red Alert or other elevated operational status, C3 equipment must be returned to the armory or otherwise secured in accordance with [Red Alert Equipment Protocol](crimes-and-punishments.md#arrest-procedure). Off-duty officers must stow all non-standard equipment appropriately.
+**Post-Alert Obligations:** Upon the conclusion of a Red Alert or other elevated operational status, C3 equipment must be returned to the armory or otherwise secured in accordance with [Red Alert Equipment Protocol](security-guidebook.md#red-alert-equipment-protocol). Off-duty officers must stow all non-standard equipment appropriately.
 
 ---
 
@@ -92,7 +98,9 @@ Where circumstances permit, an officer should:
 
 **Deadly force** means force applied through means designed or ordinarily used to cause death or critical physical incapacitation: kinetic firearms (non-rubber rounds), lethally-configured energy weapons, explosive devices, and equivalent armaments.
 
-> *Operational context: Within this station's operational environment, death is not necessarily permanent — medical revival is feasible in most circumstances. Nevertheless, the application of deadly force carries full legal and ethical weight regardless of whether the target survives or is subsequently revived. An officer who employs deadly force must be prepared to justify that decision under the standard articulated below, and revival of the target does not retroactively exempt the officer from that obligation.*
+```admonish note
+Operational context: Within this station's operational environment, death is not necessarily permanent — medical revival is feasible in most circumstances. Nevertheless, the application of deadly force carries full legal and ethical weight regardless of whether the target survives or is subsequently revived. An officer who employs deadly force must be prepared to justify that decision under the standard articulated below, and revival of the target does not retroactively exempt the officer from that obligation.
+```
 
 **(1)** A Security Officer is justified in using physical force upon another person when the general standard above is satisfied.
 
@@ -135,7 +143,9 @@ Where lethal force is applied against a target who is not a confirmed Enemy of t
 |:--|:--|:--|:--|
 | Nuclear Operatives (including infiltration teams) | Exogenous threats (Xenos, Space bears, etc.) | Revolutionary Heads (Non-standard Revolutionaries) | Abominations (Cluwns) |
 
-> *Kill on Sight orders are authorized under subdivision (2)(b) — these targets present an imminent and ongoing threat of death or serious injury that cannot be safely neutralized by other means, or under (2)(c) where applicable. Posthumous revival of KOS targets is not required, but is permissible at the discretion of the HoS or Captain.*
+```admonish important
+Kill on Sight orders are authorized under subdivision (2)(b) — these targets present an imminent and ongoing threat of death or serious injury that cannot be safely neutralized by other means, or under (2)(c) where applicable. Posthumous revival of KOS targets is not required, but is permissible at the discretion of the HoS or Captain.
+```
 
 ---
 

@@ -1,17 +1,6 @@
 # Legal Procedures
 
-Procedures that Security and Command must follow when making arrests, issuing sentences, and using force.
-
----
-
-## Arrest Procedure
-
-1. **Identify yourself** and state the charges verbally.
-2. **Attempt to cuff** — use non-lethal force if the suspect resists.
-3. **Search the suspect** — confiscate relevant contraband or weapons.
-4. **Transport to brig** — do not hold suspects in the hallway indefinitely.
-5. **Inform the suspect of their sentence** — they have a right to know how long they are being held.
-6. **Process and release** when the timer expires, unless new charges arise.
+Procedures that Security and Command must follow when issuing sentences, conducting lawful searches, and managing confinement.
 
 ---
 
@@ -47,18 +36,10 @@ Permabrigging is reserved for capital crimes. Requirements:
 
 ---
 
-## Use of Force
+```admonish important
+Security is not judge, jury, and executioner. When in doubt, brig and consult the Captain or HoS.
+```
 
-| Situation | Authorized Force |
-|:----------|:----------------|
-| Verbal non-compliance | Verbal commands, presence |
-| Physical resistance | Non-lethal weapons, stun baton |
-| Armed resistance (non-lethal) | Non-lethal + physical restraint |
-| Armed resistance (lethal) | Lethal force authorized |
-| Active mass casualty threat | All force authorized |
-
-**Lethal force** should only be used when non-lethal options have failed or are not viable given the threat level.
-
----
-
-> **Reminder:** Security is not judge, jury, and executioner. When in doubt, brig and consult the Captain or HoS.
+See also:
+- Arrest workflow: [Security Policies & Guidebook](security-guidebook.md#arrest-procedure)
+- Use of force authority: [Security Authority](security-authority.md#use-of-force)
