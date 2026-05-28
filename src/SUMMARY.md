@@ -25,6 +25,7 @@
 
 - [Security Overview](space-law/security-overview.md)
     - [Security Policies & Guidebook](space-law/security-guidebook.md)
+    - [Prisoner Treatment](space-law/prisoner-treatment.md)
     - [Alert Statuses](space-law/alert-statuses.md)
 - [Space Law](space-law/crimes-and-punishments.md)
     - [Security Authority](space-law/security-authority.md)
@@ -36,6 +37,7 @@
 ---
 
 - [Admin Code of Conduct](policies/admin-policy.md)
+    - [Admin Structure](policies/admin-structure.md)
 	- [Admin Expectations](policies/admin-expectations.md)
 	- [Rule Enforcement](policies/rule-enforcement.md)
 	- [Punitive Action](policies/punitive-action.md)

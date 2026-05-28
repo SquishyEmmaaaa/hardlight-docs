@@ -46,6 +46,7 @@ When behavior intersects multiple policy areas, admins should apply the clearest
 |:----------|:----------------------------|:-----------------------|
 | Security/Command refusing role obligations, severe SOP disregard | [Rule 10.1](../rules/server-rules.md#section-10-command-and-security-rules) takes precedence | Higher-standard performance expectation applies; severe or repeated failures may be escalated as Rule 10.1 violations |
 | Conduct that intentionally degrades another player's experience (including SSD exploitation) | [Rule 1.5](../rules/server-rules.md#section-1-behavior-rules) takes precedence | Intentional harm/disruption to player experience is actionable even where behavior is framed as technical compliance |
+| Antagonist use of ERP-oriented items (for example, neuralyzer) to pursue objectives | [Rule 1.11](../rules/server-rules.md#section-1-behavior-rules) governs consent/boundary protection first | Items introduced with heavy ERP purpose are not valid antag objective tools and should generally not be used by antags |
 
 ## Directorate Rulings
 
@@ -96,4 +97,22 @@ When Colonial Command does appear on station, the involvement must be request-dr
 
 "Big brother watching" style presence is not an accepted roleplay baseline and should be corrected. Visits or deployments of CC characters to the station without purpose is not permitted.
 
+```
+
+<a id="erp-purpose-items-and-antag-objectives"></a>
+```admonish note
+**Precedent: ERP-Purpose Items and Antagonist Objectives**
+
+**Source:** Directorate/admin precedent (community safety and consent standard)
+
+**Rules ruled upon:** [Rule 1.11](../rules/server-rules.md#section-1-behavior-rules), with supporting context from [Section 9 ERP Rules](../rules/server-rules.md#section-9-erotic-role-play-erp-rules)
+
+Items introduced to the community with a heavy ERP purpose (for example, a neuralyzer) are not to be used to accomplish antagonist objectives.
+
+In general, antagonists should not use these items at all during objective play.
+
+**Administrative standard:**
+- Treat use of ERP-purpose items for objective progression as a Rule 1.11 boundary/consent violation context, not a creative-objective exception.
+- Redirect antags toward objective methods that do not rely on ERP-oriented mechanics/items.
+- Document the incident clearly so repeated conduct escalates consistently.
 ```

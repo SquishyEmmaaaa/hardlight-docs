@@ -11,11 +11,12 @@ Use the least severe intervention that still protects current player experience,
 | Level | Primary Tool | Use When | Required Follow-Through |
 |:------|:-------------|:---------|:------------------------|
 | 0 | Coaching / clarification | Confusion, first-time low-impact issue, no clear bad faith | Explain expectation and desired correction |
-| 1 | Message | Important non-punitive profile context should be preserved for staff awareness | Record concise, factual context and avoid punitive framing |
-| 2 | Note | Rule violation or incident needs accountability record | Keep it brief; log facts, context, admin action, and player response |
-| 3 | Watchlist | Patterned concerns need cross-admin visibility | Document what to monitor and why; reassess periodically |
-| 4 | Role/game punitive action | Repetition, refusal, severe impact, or bad faith | Apply proportionate action and document rationale in notes |
-| 5 | Whitelist revocation consideration | Persistent bad fit despite correction/escalation | Seek concurrence when practical and document internal rationale |
+| 1 | Note | Rule violation occurred and needs a durable accountability record | Keep it brief; log facts, context, admin action, and player response |
+| 2 | Watchlist | Patterned concerns need cross-admin visibility | Document what to monitor and why; reassess periodically |
+| 3 | Role/game punitive action | Repetition, refusal, severe impact, or bad faith | Apply proportionate action and document rationale in notes |
+| 4 | Whitelist revocation consideration | Persistent bad fit despite correction/escalation | Seek concurrence when practical and document internal rationale |
+
+`Message` remains available as a non-punitive profile-context tool, but it is not part of punitive escalation for rulebreaking.
 
 ## Tool Standards
 
@@ -35,9 +36,9 @@ Example: "This player performs as an excellent ERT role or CC guard when require
 
 ### Player Note (`note`)
 
-Use notes as the durable staff record.
+Use notes as the durable staff record and the first punitive step after coaching/clarification when a rule violation occurs.
 
-Notes should be brief and are typically applied for a rule violation.
+Notes should be brief and should be applied whenever an incident needs to be on-record for future escalation decisions.
 
 | Must Include | Why |
 |:-------------|:----|
@@ -67,12 +68,13 @@ Use this as the single escalation ladder from least severe to most severe.
 | Stage | Action | Severity Guidance | Expires In (Typical) | Use When |
 |:------|:-------|:------------------|:---------------------|:---------|
 | 1 | Coaching / clarification | Lowest | N/A | First-time, low-impact confusion; clear correction path exists |
-| 2 | Message (non-punitive profile context) | Low | N/A | Important staff context should be preserved without punitive framing |
-| 3 | Note (warning/accountability record) | Low to medium | N/A | Rule violation needs brief durable documentation |
-| 4 | Watchlist | Medium | N/A | Pattern concerns require cross-admin visibility on login |
-| 5 | Role Ban | Medium to high | 12h, 3d, 7d, 15d, perm | Misconduct is role-specific (for example recurring Rule 10.1 failures in Security/Command roles) |
-| 6 | Server/Game Ban | High to critical | 12h, 3d, 7d, 15d, perm | Behavior is severe, repeated, bad-faith, or not contained to a single role |
-| 7 | Combined Ban Action | Highest | Usually 7d, 15d, or perm | Both role misuse and broader game-impact concerns are present |
+| 2 | Note (first punitive step) | Low to medium | N/A | Rule violation needs brief durable documentation for accountability and future escalation |
+| 3 | Watchlist | Medium | N/A | Pattern concerns require cross-admin visibility on login |
+| 4 | Role Ban | Medium to high | 12h, 3d, 7d, 15d, perm | Misconduct is role-specific (for example recurring Rule 10.1 failures in Security/Command roles) |
+| 5 | Server/Game Ban | High to critical | 12h, 3d, 7d, 15d, perm | Behavior is severe, repeated, bad-faith, or not contained to a single role |
+| 6 | Combined Ban Action | Highest | Usually 7d, 15d, or perm | Both role misuse and broader game-impact concerns are present |
+
+`Message` may still be used in parallel for useful non-punitive context, but does not replace a required note when rulebreaking occurred.
 
 ![Banning panel reference](banningpanel.png)
 
@@ -142,7 +144,7 @@ Use these modifiers to move up or down the path:
 
 | Modifier | Direction | Effect |
 |:---------|:----------|:-------|
-| New player confusion with good-faith correction | De-escalate | Prefer coaching; use message only for useful non-punitive context |
+| New player confusion with good-faith correction | De-escalate | Prefer coaching; add a note only when an on-record rulebreak entry is still warranted |
 | Prompt compliance after contact | De-escalate | Stop at minimal necessary action |
 | Repeat behavior after prior notice | Escalate | Move to note/watchlist or stronger action |
 | Refusal, evasion, or bad faith conduct | Escalate | Skip levels where needed |

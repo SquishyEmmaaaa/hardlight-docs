@@ -8,6 +8,7 @@ All staff conduct is governed by one standard: communicate clearly, correct beha
 
 ## Quick-Glance Navigation
 
+- [Admin Structure](admin-structure.md)
 - [Admin Expectations](admin-expectations.md)
 - [Rule Enforcement](rule-enforcement.md)
 - [Punitive Action](punitive-action.md)

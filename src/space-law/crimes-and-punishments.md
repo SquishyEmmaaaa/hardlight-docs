@@ -1614,7 +1614,7 @@ If a sentence timer is longer than **30 minutes**, the incarcerated is to be tra
 
 ### Executions
 
-Executions are to be authorized by the current Captain (acting or otherwise) and announced over the communications console detailing the charges, reasoning, method of execution, and when it was performed. A fax to Colonial Command containing the same must also be sent.
+Executions are to be authorized by the current Captain (acting or otherwise). The execution announcement must be made over the communications console **before** the execution takes place, detailing the charges, reasoning, and method of execution. A fax to Colonial Command containing the same must also be sent.
 
 ### Implant Search
 
@@ -1638,7 +1638,25 @@ Incarcerated individuals who are a threat to themselves or others are to be put 
 
 ## Warrants
 
-All warrants must be signed and stamped by the **Warden, Head of Security, or Captain** to be valid. **ALL warrants must have evidence backing the reason for issuance. Hearsay is NOT a valid reason for issuing a warrant.**
+A warrant is a formal application and authorization to either:
+
+- Search a specified person, vessel, or department area; or
+- Arrest a specified person.
+
+All warrants must be signed and stamped by the **Warden, Head of Security, or Captain** to be valid.
+
+Warrants must include articulated [Probable Cause](legal-standards.md#probable-cause):
+
+- **Arrest Warrant:** probable cause that the named person committed a crime.
+- **Search Warrant (Individual/Ship/Department):** probable cause that evidence of a crime is located in the person/area to be searched.
+
+All warrants must also include an **affidavit statement**: sworn testimony setting out the facts relied upon for probable cause.
+
+```admonish warning title="Warrant Integrity Requirement (OOC Safety Standard)"
+Due to abuse risk, warrants may not be based on information known to be false, and may not be issued or signed corruptly. Warrant submissions and approvals must reflect truth to the best of the submitter's and signer's knowledge.
+```
+
+**ALL warrants must have evidence backing issuance. Unsupported hearsay alone is not a valid basis for a warrant.**
 
 ### Individual Warrant
 

@@ -36,9 +36,15 @@ Common examples include repeated refusal by Security to investigate or arrest af
 
 Stealing from SSD players should be evaluated through [Rule 1.5](../rules/server-rules.md#section-1-behavior-rules). Staff review should center on intent, impact on enjoyment, and whether behavior stops after intervention.
 
+This section should be treated as a standing interpretation of Rule 1.5: behavior that materially harms player experience, even when framed as "technically allowed," is still enforceable under Rule 1.5.
+
+Low-RP behavior that degrades another player's ability to participate is commonly a Rule 1.5 issue. A frequent example is attacking or forcefully disrupting a player while they are occupied with a console interaction, where the conduct is not justified by meaningful roleplay context.
+
 ## Punitive Action
 
 For the full punitive-action escalation path and standards for `message`, `note`, and `watchlist`, see [Punitive Action](punitive-action.md).
+
+For rulebreak enforcement, `note` is the first punitive step after coaching/clarification (or immediately, if an on-record violation entry is warranted).
 
 ## Whitelist Privilege and Community Fit
 
