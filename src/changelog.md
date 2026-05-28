@@ -1,12 +1,20 @@
-# Space Law Changelog
+# Changelog
 
-This changelog is a running history for the entire Security Operations document set.
+This changelog is a running history for the documentation set.
+
+```admonish note title="May 28, 2026 (Revision 5)"
+- Updated Security guidance for permabrig placement, search rules, and Red Alert handling.
+- Added ship boarding steps for Traffic/Common calls, warrants, depowering, IFFless vessels, and radar-based escalation.
+- Repeated the Harbor Master freelancer coordination language in Red Alert guidance.
+```
 
 ```admonish note title="May 27, 2026 (Revision 4)"
 - Added RP-First Sentencing to Security Overview.
 - Clarified enforcement philosophy: roleplay quality over punitive maximization.
 - Added practical examples of discretionary, RP-forward outcomes.
 - Reinforced that searches/escalations must be based on in-character facts and lawful cause.
+- Added clearer warrant expectations, including probable cause, affidavit, and integrity requirements.
+- Added Prisoner Treatment policy covering custody rights, responsibilities, visitation standards, and property handling.
 ```
 
 ```admonish note title="May 25, 2026 (Revision 3)"

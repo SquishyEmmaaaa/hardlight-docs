@@ -1105,8 +1105,10 @@ PC may be established by: recovery of the item during a lawful search, discovery
 
 **Officer Notes**
 
-- A mandatory shuttle search is required upon charging — these items are often not the only ones in the individual's possession.
 - Unlike [206 — Possession, Contraband Equipment](#206) (C2), there is no permit exception for most C3 items without explicit command authorization.
+- During Red Alert, non-Security persons may possess C3 only while complying with reasonable Security direction.
+- Red Alert is not blanket approval to keep, carry, or use C3 however they want.
+- A person may still be charged under 306 during Red Alert when they ignore lawful orders (for example, looting and retaining a nuclear operative's equipment).
 - If the item was used in an attack, add the appropriate assault or sabotage charge.
 
 </details>

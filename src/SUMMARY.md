@@ -41,6 +41,7 @@
 	- [Admin Expectations](policies/admin-expectations.md)
 	- [Rule Enforcement](policies/rule-enforcement.md)
 	- [Punitive Action](policies/punitive-action.md)
+    - [Colonial Command](policies/colonial-command.md)
 	- [Precedent Information](policies/precedent-information.md)
 	- [Admin Characters](policies/admin-characters.md)
 

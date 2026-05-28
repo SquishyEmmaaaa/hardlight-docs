@@ -16,7 +16,7 @@
 | [Prisoner Treatment](prisoner-treatment.md) | Rights, responsibilities, and custody treatment standards |
 | [Alert Statuses](alert-statuses.md) | Green / Blue / Red — criteria and authority changes |
 | [Security Policies & Guidebook](security-guidebook.md) | Roles, terminology, CDET policy, arrest procedure |
-| [Changelog](changelog.md) | Recent updates to Space Law and Security policy |
+| [Changelog](../changelog.md) | Recent updates to Space Law and Security policy |
 
 ---
 

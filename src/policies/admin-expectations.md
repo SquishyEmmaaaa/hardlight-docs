@@ -68,6 +68,34 @@ Admins should respond to every ahelp with at least an acknowledgment, even if th
 The expectation is response, not automatic approval. An answered ahelp can still end in a firm no.
 ```
 
+## Ticket Handling Standard
+
+Tickets should be handled with a calm, respectful tone by default, even when the answer is no.
+
+| Situation | Expected Handling |
+|:----------|:------------------|
+| Standard ticket conversation | Be clear, compassionate, and keep the discussion moving with timely replies or pings |
+| Ticket author is unreasonable | Stay professional and firm; enforce boundaries without escalating tone |
+| Need to pull a player into ticket context | Open a ticket and add the player rather than trying to resolve cross-context in fragments |
+| Ticket closure | Create a transcript when closing, then remove the ticket channel/thread per process |
+
+```admonish note
+Ticket handling is about consistency and closure. Do not leave tickets idle without acknowledgment or a handoff.
+```
+
+## Whitelist and Time Transfer Standards
+
+Whitelist requests should meet at least one of the following:
+
+- 75-100 hours of relevant SS13/SS14 playtime, or
+- A vouch from an established existing player.
+
+These are baseline gates, not automatic approval guarantees. Staff may still deny requests based on conduct history, credibility concerns, or clear community-fit issues.
+
+Time transfers are not granted for Security role time.
+
+Where transfer requests are otherwise considered, approval remains discretionary and should be documented with clear rationale.
+
 ## Administrative Conduct Expectations
 
 Admins are expected to use communication before punishment where practical, explain expectations and outcomes clearly, apply policy consistently across players, document rationale for significant actions, and focus on behavior improvement over confrontation.

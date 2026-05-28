@@ -15,13 +15,11 @@ Procedures that Security and Command must follow when issuing sentences, conduct
 
 ## Searches
 
-| Type | Authorization Required |
-|:-----|:----------------------|
-| Pat-down (pockets/hands) | Probable cause or arrest |
-| Full search (bag/ID/equipment) | Arrest, or reasonable suspicion of contraband |
-| Area/locker search | Captain or HoS authorization |
-
-Searches must be logged if they are contested.
+| Situation | Green Alert | Blue Alert | Red Alert |
+|:----------|:------------|:-----------|:----------|
+| Full person search (bag/ID/equipment) | Warrant, consent, or incident to lawful arrest | Officer discretion with articulable reason | Officer discretion based on active threat context |
+| Search after lawful arrest | Authorized | Authorized | Authorized |
+| Vessel/department search | Valid warrant required unless explicit exception applies | Valid warrant generally required | Warrant requirement waived where Red Alert exceptions apply |
 
 ---
 
@@ -30,7 +28,7 @@ Searches must be logged if they are contested.
 Permabrigging is reserved for capital crimes. Requirements:
 
 - Charges must be at the capital crime level.
-- Captain or HoS must authorize.
+- Placement must be lawful under sentencing/procedure standards.
 - Prisoner must be informed of their charges and that they are permanently confined.
 - Prisoner retains access to a lawyer and the right to appeal.
 

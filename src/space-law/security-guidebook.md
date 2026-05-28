@@ -26,7 +26,6 @@ The frontline law enforcement role. Officers conduct patrols, respond to reporte
 
 - May make arrests and conduct searches within authorized parameters
 - May access standard-issue equipment from the armory with Warden sign-off
-- Must file an incident report for all arrests and notable events
 - Reports to the Warden for processing matters and the HoS for operational direction
 
 ### Detective
@@ -75,14 +74,14 @@ Common terms used in Security operations and Space Law.
 | **KOS** | *Kill on Sight* — Authorization to use lethal force on a specific individual immediately upon locating them. Reserved for confirmed, active lethal threats where non-lethal options are not viable. Requires both HoS **and** Captain authorization. |
 | **Brig** | The Security detention facility. Contains short-term holding cells where prisoners serve timed sentences. Distinct from Permabrig (indefinite holding). |
 | **Timer** | The countdown on a cell indicating the time remaining in a prisoner's sentence. |
-| **Perma** | Short for *Permanent Confinement* — indefinite brig detention reserved for capital crimes. Requires HoS and Captain authorization. Perma prisoners retain the right to appeal to Colonial Command. |
+| **Perma** | Short for *Permanent Confinement* — indefinite brig detention reserved for capital crimes through lawful sentencing/placement. Perma prisoners retain the right to appeal to Colonial Command. |
 | **Processing** | The intake procedure for a newly arrested individual: search, charge confirmation, sentence calculation, and timer set. Overseen by the Warden. |
 | **Stun** | Non-lethal incapacitation using a stun baton, taser, or equivalent. The preferred method of subduing a resisting suspect in most situations. |
 | **C1** | Class 1 Contraband — Minor prohibited items. Typically handled with confiscation and a fine. |
 | **C2** | Class 2 Contraband — Restricted equipment that may be legally possessed with a valid C2 Permit. Without a permit, possession is chargeable under [206 — Possession, Contraband Equipment](crimes-and-punishments.md#206). |
-| **C3** | Class 3 Contraband — Dangerous or prohibited weapons and materials. Illegal for all non-Security personnel at all times. Possession is chargeable under [306 — Possession, Illegal Inherently Dangerous Equipment](crimes-and-punishments.md#306). Security personnel may carry C3 during Red Alert. Crew and freelancers may carry C3 during Red Alert only if **specifically authorized** by the HoS or Captain — a Red Alert declaration alone is not authorization. |
+| **C3** | Class 3 Contraband — Dangerous or prohibited weapons and materials. Possession by non-Security personnel is chargeable under [306 — Possession, Illegal Inherently Dangerous Equipment](crimes-and-punishments.md#306) unless explicitly authorized by applicable alert/command policy. Security personnel may carry/deploy C3 while acting in lawful security duties (see [Security Authority](security-authority.md#weapons-and-contraband-authority)). |
 | **CDET** | *Contraband Denying Energy Turret* — A statically placed automatic weapon that fires on any individual detected carrying C3 contraband. See [CDET Policy](#cdet--contraband-denying-energy-turrets) below. |
-| **Warrant** | A formal authorization to search a person, vessel, or area. Requires Probable Cause and must be approved by the HoS or Captain. |
+| **Warrant** | A formal authorization to search a person, vessel, or area. Requires Probable Cause and must be approved by the Warden, HoS, or Captain. |
 | **Alert Status** | The station-wide threat level. Any member of Command may declare or change the alert status (Green / Blue / Red). See [Alert Statuses](alert-statuses.md). |
 | **RS** | *Reasonable Suspicion* — The minimum evidentiary threshold. Allows contact, questioning, and temporary detention. Does not authorize arrest or search on Green Alert. See [Legal Standards](legal-standards.md). |
 | **PC** | *Probable Cause* — The threshold for arrest, warrants, and search. Requires articulable facts supporting a belief that a crime has occurred, is occurring, or is about to occur. See [Legal Standards](legal-standards.md). |
@@ -144,8 +143,24 @@ If a suspect marked for arrest via a warrant flees onto a private vessel, that v
 Upon entering Red Alert, the following is authorized by Colonial Command:
 
 1. Security may freely utilize C3 equipment to handle any given threat on station.
-2. Freelancers and crew may brandish and employ C3 equipment strictly to combat the threat. Any freelancer aiding the station **must** report to Security and follow orders from the HoS or Captain.
+2. Freelancers and crew may carry/brandish/employ C3 equipment strictly to combat the threat **only when specifically authorized** by the HoS or Captain. Any freelancer aiding the station **must** report to Security; the Harbor Master may direct freelancer coordination, but final authority rests with the HoS.
 3. Upon removal of the threat, an announcement is to be made stating individuals with illegal equipment must stow it off-station. **No one may be pursued for equipment used during a Red Alert.** A 5-minute grace period is given from the time of announcement; after that, remaining contraband may be confiscated as spotted.
+
+### Ship Boarding Protocol (Sector Operations)
+
+Use this protocol when dealing with ships operating in the station sector.
+
+| Step | Requirement |
+|:-----|:------------|
+| 1 | Broadcast intent in both **Traffic** and **Common** before boarding action. |
+| 2 | If boarding/search is warrant-based, send the warrant by fax where applicable before execution. |
+| 3 | If the suspect vessel is combat-capable, order it to depower before boarding. |
+| 4 | IFFless vessel status provides **Reasonable Suspicion** for contact/investigation. |
+| 5 | Mass-scanner radar red pings (red weapons icon or red shields) provide **Probable Cause** for escalation/search action, but a warrant must still be obtained before any search unless another lawful exception applies. |
+
+```admonish note
+"Radar pings" in this protocol refers to mass-scanner console indicators showing guns in any color other than green, treated as C3-linked threat indicators.
+```
 
 ### Sentencing Rules
 
@@ -157,25 +172,26 @@ Upon entering Red Alert, the following is authorized by Colonial Command:
 
 ### Searches
 
-| Type | Authorization Required |
-|:-----|:----------------------|
-| Pat-down (pockets / hands) | Probable Cause or incident to arrest |
-| Full search (bag / ID / equipment) | Arrest, or Probable Cause of contraband |
-| Area or locker search | Captain or HoS authorization |
-| Search on Blue Alert | Officer's discretion with articulable reason |
-| Search after CDET firing on Blue Alert | Officer's discretion; no warrant required |
+| Situation | Green Alert | Blue Alert | Red Alert |
+|:----------|:------------|:-----------|:----------|
+| Full person search (bag / ID / equipment) | Warrant, consent, or incident to lawful arrest | Officer discretion with articulable reason | Officer discretion based on active threat context |
+| Search after lawful arrest | Authorized | Authorized | Authorized |
+| Search after CDET firing | Warrant/consent unless another lawful basis exists | Officer discretion; no warrant required | Officer discretion; no warrant required |
+| Vessel/department search | Valid warrant required unless explicit exception applies | Valid warrant generally required | Warrant requirement waived where Red Alert exceptions apply |
 
-All contested searches must be logged. For full search authority by alert status, see [Alert Statuses](alert-statuses.md).
+For full search authority by alert status, see [Alert Statuses](alert-statuses.md).
 
 ### Permabrig
 
 Permanent Confinement is reserved for capital crimes and requires the following:
 
 - Charges must be at the capital crime level (400s)
-- The **Captain and HoS must both authorize** placement
+- Placement must be lawful under sentencing/procedure standards
 - The prisoner must be formally informed of their charges and that they are permanently confined
 - Prisoners retain the right to legal representation and the right to appeal to Colonial Command
 - Permanent Confinement does not mean unsupervised — the Warden is responsible for the welfare of perma prisoners
+
+If the total charge time exceeds 30 minutes, the arrested person shall be placed in permabrig for the duration of their sentence. This does **not** make them permanently confined by itself; permanent confinement still requires a capital-level basis and lawful placement under the rules above.
 
 ### Use of Force
 

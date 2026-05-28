@@ -12,6 +12,7 @@ All staff conduct is governed by one standard: communicate clearly, correct beha
 - [Admin Expectations](admin-expectations.md)
 - [Rule Enforcement](rule-enforcement.md)
 - [Punitive Action](punitive-action.md)
+- [Colonial Command](colonial-command.md)
 - [Precedent Information](precedent-information.md)
 
 ## Precedent Overview

@@ -8,11 +8,11 @@ Alert statuses are declared station-wide by any member of **Command** and indica
 
 ## Quick Reference
 
-| Status | Threat Level | Search Authority | C3 Equipment | Crew Obligation |
+| Status | Threat Level | Search Authority | C3 Equipment (Crew/Freelancers) | Crew Obligation |
 |:------:|:-------------|:----------------|:-------------|:----------------|
 | **Green** | None known | Warrant required | Prohibited | Normal operations |
 | **Blue** | Confirmed threat | Reasonable Suspicion | Prohibited | Remain vigilant; report suspicious activity |
-| **Red** | Immediate threat | Officer's discretion | Authorized | Cooperate with Security; follow authorities |
+| **Red** | Immediate threat | Officer's discretion | Authorized only when specifically approved by HoS/Captain | Cooperate with Security; follow authorities |
 
 ---
 
@@ -89,7 +89,7 @@ Red Alert **should not be treated as a permanent state.** It must be lifted as s
 All Blue Alert changes remain in effect, plus:
 
 **C3 Equipment**
-Security personnel may carry and deploy Class 3 (C3) equipment during Red Alert. Crew members and freelancers may carry C3 during Red Alert **only if specifically requested** by the HoS or Captain — a Red Alert declaration alone is not general authorization. Unauthorized possession of C3 remains chargeable under [306 — Possession, Illegal Inherently Dangerous Equipment](crimes-and-punishments.md#306).
+Security personnel may carry and deploy C3 while acting in lawful security duties (see [Security Authority](security-authority.md#weapons-and-contraband-authority)). Crew members and freelancers may carry C3 during Red Alert **only if specifically requested** by the HoS or Captain — a Red Alert declaration alone is not general authorization. Unauthorized possession of C3 remains chargeable under [306 — Possession, Illegal Inherently Dangerous Equipment](crimes-and-punishments.md#306).
 
 **Lethal Force**
 Security is authorized to use lethal force when the situation warrants it. Lethal force is authorized — not mandated. Officers must still exercise judgment proportional to the threat. See [Security Authority](security-authority.md) for the full Use of Force framework.
@@ -97,13 +97,15 @@ Security is authorized to use lethal force when the situation warrants it. Letha
 **Crew Assistance**
 Crew may be directed by Security to assist in responding to the threat. Crew who assist must operate under direct officer supervision and follow all Security commands — unauthorized independent action remains chargeable under [104 — Vigilantism](crimes-and-punishments.md#104). See [M05 — Griseo Maris](crimes-and-punishments.md#modifiers).
 
+Freelancers who assist may be coordinated by the Harbor Master, but final direction and enforcement authority remain with the HoS.
+
 ---
 
 ## Lifting an Alert
 
 Any member of **Command** may downgrade alert status. When an alert is lifted:
 
-- C3 equipment must be secured and returned to the armory immediately
+- Any temporary C3 authorizations for crew/freelancers end immediately; unauthorized C3 must be stowed/secured per Security direction
 - Search authority returns to the standard Green Alert warrant requirement
 - Any crew deputized under Red Alert are stood down
 - Crew ID card requirement remains in effect until Green Alert is formally declared and announced
