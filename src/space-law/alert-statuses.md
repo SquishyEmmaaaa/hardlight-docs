@@ -51,7 +51,7 @@ Any member of **Command** may declare Blue Alert. The declaring member should no
 ### What Changes on Blue Alert
 
 **Search Authority**
-Officers may conduct searches at without a warrant when there is an articulable reason for the stop. Blue Alert does not authorize arbitrary or mass searches — the officer must still be able to state a reason. The standard is *reasonable basis*, not *mere presence*.
+Officers may conduct searches without a warrant when there is an articulable reason for the stop. Blue Alert does not authorize arbitrary or mass searches — the officer must still be able to state a reason. The standard is *reasonable basis*, not *mere presence*.
 
 **Identification**
 All crew are required to wear their ID card visibly. Failure to produce or wear a valid ID card during Blue Alert is a chargeable offense under [118 — Failure to Identify](crimes-and-punishments.md#118).

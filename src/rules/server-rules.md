@@ -15,7 +15,7 @@ Implementation and interpretation of the rules is up to the sole discretion of t
 If you have any questions about these rules, please use the Admin help menu by hitting F1 in-game, or clicking the "AHelp" button in the lobby, or alternatively, ask for assistance on the discord.
 
 ```admonish note
-**Hardlit enforcement:** Rules marked with 🔷 are enforced at all times. Other rules are only enforced upon recieving a user report.
+**Hardlit enforcement:** Rules marked with 🔷 are enforced at all times. Other rules are only enforced upon receiving a user report.
 ```
 
 Each section contains its own list of rules.
@@ -192,7 +192,7 @@ Leeway is given to theatrical roles such as the clown, boxer, and mime; these ro
 | 13.2 | Do not abuse the ship save mechanic to avoid in-character consequences. | |
 | 13.3 | Do not exploit the stash to duplicate items. This especially goes for contraband. | 🔷 |
 | 13.4 | Do not use inventories to circumvent stash restrictions. | 🔷 |
-| 13.5 | Ship saving backups are only to be used in the event of ship destruction or loss due to a server crash or other unforseen issue. Loading backups otherwise is only to be done with admin permission. | |
+| 13.5 | Ship saving backups are only to be used in the event of ship destruction or loss due to a server crash or other unforeseen issue. Loading backups otherwise is only to be done with admin permission. | |
 | 13.6 | Do not under any circumstances modify a ship save file without admin permission (like with the engine update). | 🔷 |
 | 13.7 | Do not go afk for extended periods on your ship (like logging off to sleep). The ship saving is provided to allow people to save progress without the need to do this. UNATTENDED SHIPS WILL BE REMOVED. | 🔷 |
 | 13.8 | DO NOT ADD MORE THAN ONE BLUESPACE STASH PER SHIP. | 🔷 |

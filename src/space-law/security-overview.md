@@ -27,13 +27,13 @@
 
 **From oksam (OOC):**
 
-Security can be one of the most rewarding, engaging, and entertaining roles on the server. However, it comes with it's challanges.
+Security can be one of the most rewarding, engaging, and entertaining roles on the server. However, it comes with its challenges.
 
 Players who choose to play security roles are empowered with the ability to interrupt player's gameplay. Their authority entrusted in them through their in-character appointment carries an out-of-character impact.
 
 Often, poor performance by security can lead to frustrations of the playerbase. Security players should apply liberal, generous understanding views when encountering conflict in game. It is not acceptable to "lock them up and throw away the key" - this win first mentality disrupts the community's objectives and creates a negative experience for most involved.
 
-Security players should have a generous understanding of what player antags look like, and how to encoutner them. Being able to distingush the difference between a Head Revolutionary and turned Revolutionary is incredibly important, as it vastly changes the method of interaction with that player.
+Security players should have a generous understanding of what player antags look like, and how to encounter them. Being able to distinguish the difference between a Head Revolutionary and turned Revolutionary is incredibly important, as it vastly changes the method of interaction with that player.
 
 Security's objective is not to win, just like antagonists, they are expected to contribute to the gameplay loop and provide roleplay.
 ```
