@@ -181,6 +181,30 @@ Use this protocol when dealing with ships operating in the station sector.
 
 For full search authority by alert status, see [Alert Statuses](alert-statuses.md).
 
+### Evidence & Confiscated Material
+
+When items are seized during an arrest or search, their disposition depends on whether they constitute evidentiary material, contraband, or general personal property.
+
+**Evidence of a Capital Crime**
+
+Key physical evidence relevant to proving innocence or guilt in a capital offense (400-level charge) must be retained within Security custody until the end of the shift. Preferred custodians are the **Detective** (evidence locker) or the **Warden** (armory), depending on the nature of the item. Evidence must not be destroyed, discarded, or returned to the subject while a capital case remains open.
+
+**Class 3 Contraband**
+
+C3 contraband seized as evidence or incidental to an arrest may be:
+- Retained in the custody of the **Detective** or **Warden**; or
+- Processed through the **contraband exchange computer**
+
+The handling officer should document which disposition was taken.
+
+**General Confiscated Contraband**
+
+As a general rule, Security personnel may **not** keep contraband removed from a citizen for personal use or possession. Confiscated items must be stored, processed, or disposed of through lawful channels. Retaining contraband for personal benefit may constitute [220 — Abuse of Authority](crimes-and-punishments.md#220).
+
+```admonish note
+Exigent circumstances may justify temporary personal custody of seized items (e.g., evidence lockers unavailable, active pursuit in progress). In such cases, the item must be transferred to proper custody at the earliest opportunity and the deviation documented.
+```
+
 ### Permabrig
 
 Permanent Confinement is reserved for capital crimes and requires the following:

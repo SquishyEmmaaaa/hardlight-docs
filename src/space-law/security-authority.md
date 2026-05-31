@@ -15,7 +15,21 @@ Members of the Security Department — including Security Officers, Detectives, 
 3. Carry, brandish, and deploy weapons and equipment of any contraband classification while acting in the performance of authorized security duties.
 4. Use physical force, including deadly force, within the limits established by these provisions.
 
-This authority is **jurisdictionally bound** to the station, its directly affiliated vessels, and the surrounding sector. It does not extend beyond these bounds except in the active pursuit of a fleeing suspect who is subject to a valid arrest warrant or who has been lawfully arrested and has escaped custody.
+This authority extends to **all space within the station's operational sector** — including the station itself, all vessels present in the sector regardless of ownership or affiliation, planetary surfaces, and expedition sites reachable from the station. Authority persists outside the sector only in the active pursuit of a fleeing suspect who is subject to a valid arrest warrant or who has been lawfully arrested and has escaped custody.
+
+**Exception — Colonial Command Territory:** Security does not exercise primary enforcement authority within Colonial Command's own territorial space. Security personnel may operate there only in exigent circumstances — specifically, active pursuit of a fleeing suspect, or situations requiring immediate action to prevent serious harm — and must defer to Colonial Command's authority upon contact.
+
+### Jurisdiction Over Vessels
+
+Space Law applies to **all vessels operating within sector space**, regardless of their ownership, affiliation, or any claimed independence. A freelancer vessel, private ship, or independent craft is not exempt from Space Law by virtue of its private ownership. Vessels in this sector are not sovereign territory. No claim of independence, neutrality, or "castle doctrine" constitutes a valid basis for excluding Security authority.
+
+**Freelancer and Private Vessels:** Freelancer vessels are private property — equivalent to a privately owned vehicle. They are not considered "station-affiliated" in any special sense, nor are they exempt. Space Law governs conduct aboard them the same as anywhere else in sector space.
+
+**No Asylum:** No vessel within sector space may serve as a place of asylum from Space Law or from lawful Security enforcement. The law of New Avalon extends to all citizens and visitors within its claimed space, including those aboard private vessels.
+
+**Victim Discretion:** For minor offenses committed aboard a private vessel — such as trespass — where the vessel owner or directly affected party declines to press charges, Security may, at its discretion, defer to that decision. This is a matter of enforcement discretion and does not limit jurisdiction. Security retains full authority to act regardless of victim preference where the offense is serious, where a third party was harmed, or where station safety is implicated.
+
+**Boarding and Search:** A vessel owner may grant or deny consent to board their vessel. Absent consent, a boarding or search requires a warrant, except where a lawful exception applies. Whether Security may board is a procedural question — it does not affect whether Space Law applies aboard.
 
 ---
 
